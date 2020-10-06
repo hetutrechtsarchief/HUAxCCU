@@ -1,0 +1,4611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-10-06T23:36:37.841+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5637" WIDTH="7532">
+         <TopMargin HEIGHT="0" WIDTH="7532" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5637" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5637" WIDTH="0" VPOS="0" HPOS="7532"/>
+         <BottomMargin HEIGHT="0" WIDTH="7532" VPOS="5637" HPOS="0"/>
+         <PrintSpace HEIGHT="5637" WIDTH="7532" VPOS="0" HPOS="0">
+            <TextBlock ID="r_3_1" HEIGHT="34" WIDTH="232" VPOS="568" HPOS="835">
+               <Shape>
+                  <Polygon POINTS="835,568 1067,568 1067,602 835,602"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="601"
+                         HEIGHT="32"
+                         WIDTH="230"
+                         VPOS="569"
+                         HPOS="836">
+                  <String ID="string_tl_1"
+                          HEIGHT="32"
+                          WIDTH="230"
+                          VPOS="569"
+                          HPOS="836"
+                          CONTENT="VOORNAMEN"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_4_1" HEIGHT="32" WIDTH="128" VPOS="777" HPOS="888">
+               <Shape>
+                  <Polygon POINTS="888,777 1016,777 1016,809 888,809"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="808"
+                         HEIGHT="30"
+                         WIDTH="126"
+                         VPOS="778"
+                         HPOS="889">
+                  <String ID="string_tl_2"
+                          HEIGHT="30"
+                          WIDTH="126"
+                          VPOS="778"
+                          HPOS="889"
+                          CONTENT="NAMEN"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_6_1" HEIGHT="301" WIDTH="597" VPOS="1277" HPOS="657">
+               <Shape>
+                  <Polygon POINTS="688,1290 1248,1277 1254,1578 657,1562"/>
+               </Shape>
+               <TextLine ID="tl_3"
+                         BASELINE="1551"
+                         HEIGHT="252"
+                         WIDTH="600"
+                         VPOS="1299"
+                         HPOS="645">
+                  <String ID="string_tl_3"
+                          HEIGHT="252"
+                          WIDTH="600"
+                          VPOS="1299"
+                          HPOS="645"
+                          CONTENT="Oostrum"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1600348873052_756"
+                       HEIGHT="226"
+                       WIDTH="767"
+                       VPOS="2581"
+                       HPOS="2592">
+               <Shape>
+                  <Polygon POINTS="2592,2581 2592,2807 3359,2807 3359,2581"/>
+               </Shape>
+               <TextLine ID="line_1600348873982_759"
+                         BASELINE="2807"
+                         HEIGHT="226"
+                         WIDTH="767"
+                         VPOS="2581"
+                         HPOS="2592">
+                  <String ID="string_line_1600348873982_759"
+                          HEIGHT="226"
+                          WIDTH="767"
+                          VPOS="2581"
+                          HPOS="2592"
+                          CONTENT="In transport"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_10_1" HEIGHT="67" WIDTH="40" VPOS="3659" HPOS="652">
+               <Shape>
+                  <Polygon POINTS="652,3659 692,3659 692,3726 652,3726"/>
+               </Shape>
+               <TextLine ID="tl_4"
+                         BASELINE="3725"
+                         HEIGHT="119"
+                         WIDTH="146"
+                         VPOS="3606"
+                         HPOS="545">
+                  <String ID="string_tl_4"
+                          HEIGHT="119"
+                          WIDTH="146"
+                          VPOS="3606"
+                          HPOS="545"
+                          CONTENT="van"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_15_1" HEIGHT="50" WIDTH="118" VPOS="539" HPOS="1319">
+               <Shape>
+                  <Polygon POINTS="1319,539 1437,539 1437,589 1319,589"/>
+               </Shape>
+               <TextLine ID="tl_5"
+                         BASELINE="588"
+                         HEIGHT="48"
+                         WIDTH="116"
+                         VPOS="540"
+                         HPOS="1320">
+                  <String ID="string_tl_5"
+                          HEIGHT="48"
+                          WIDTH="116"
+                          VPOS="540"
+                          HPOS="1320"
+                          CONTENT="Beroep."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_16_1" HEIGHT="62" WIDTH="168" VPOS="2208" HPOS="1513">
+               <Shape>
+                  <Polygon POINTS="1513,2208 1681,2208 1681,2270 1513,2270"/>
+               </Shape>
+               <TextLine ID="tl_6"
+                         BASELINE="2269"
+                         HEIGHT="60"
+                         WIDTH="166"
+                         VPOS="2209"
+                         HPOS="1514">
+                  <String ID="string_tl_6"
+                          HEIGHT="60"
+                          WIDTH="166"
+                          VPOS="2209"
+                          HPOS="1514"
+                          CONTENT="1899"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_18_1" HEIGHT="38" WIDTH="185" VPOS="539" HPOS="1699">
+               <Shape>
+                  <Polygon POINTS="1699,539 1884,539 1884,577 1699,577"/>
+               </Shape>
+               <TextLine ID="tl_7"
+                         BASELINE="576"
+                         HEIGHT="36"
+                         WIDTH="183"
+                         VPOS="540"
+                         HPOS="1700">
+                  <String ID="string_tl_7"
+                          HEIGHT="36"
+                          WIDTH="183"
+                          VPOS="540"
+                          HPOS="1700"
+                          CONTENT="Woonplaats"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_21_1" HEIGHT="86" WIDTH="148" VPOS="1456" HPOS="1493">
+               <Shape>
+                  <Polygon POINTS="1493,1456 1641,1456 1641,1542 1493,1542"/>
+               </Shape>
+               <TextLine ID="tl_8"
+                         BASELINE="1541"
+                         HEIGHT="84"
+                         WIDTH="146"
+                         VPOS="1457"
+                         HPOS="1494">
+                  <String ID="string_tl_8"
+                          HEIGHT="84"
+                          WIDTH="146"
+                          VPOS="1457"
+                          HPOS="1494"
+                          CONTENT="1901"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_22_1" HEIGHT="42" WIDTH="144" VPOS="1907" HPOS="1519">
+               <Shape>
+                  <Polygon POINTS="1519,1907 1663,1907 1663,1949 1519,1949"/>
+               </Shape>
+               <TextLine ID="tl_9"
+                         BASELINE="1948"
+                         HEIGHT="40"
+                         WIDTH="142"
+                         VPOS="1908"
+                         HPOS="1520">
+                  <String ID="string_tl_9"
+                          HEIGHT="40"
+                          WIDTH="142"
+                          VPOS="1908"
+                          HPOS="1520"
+                          CONTENT="horen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_26_1" HEIGHT="54" WIDTH="83" VPOS="4666" HPOS="1932">
+               <Shape>
+                  <Polygon POINTS="1932,4666 2015,4666 2015,4720 1932,4720"/>
+               </Shape>
+               <TextLine ID="tl_16"
+                         BASELINE="4719"
+                         HEIGHT="52"
+                         WIDTH="81"
+                         VPOS="4667"
+                         HPOS="1933">
+                  <String ID="string_tl_16"
+                          HEIGHT="52"
+                          WIDTH="81"
+                          VPOS="4667"
+                          HPOS="1933"
+                          CONTENT="19"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_28_1" HEIGHT="455" WIDTH="381" VPOS="441" HPOS="2041">
+               <Shape>
+                  <Polygon POINTS="2041,441 2422,441 2422,896 2041,896"/>
+               </Shape>
+               <TextLine ID="tl_17"
+                         BASELINE="490"
+                         HEIGHT="48"
+                         WIDTH="346"
+                         VPOS="442"
+                         HPOS="2075">
+                  <String ID="string_tl_17"
+                          HEIGHT="48"
+                          WIDTH="346"
+                          VPOS="442"
+                          HPOS="2075"
+                          CONTENT="Dagteekening der on¬"/>
+               </TextLine>
+               <TextLine ID="tl_18"
+                         BASELINE="529"
+                         HEIGHT="49"
+                         WIDTH="372"
+                         VPOS="480"
+                         HPOS="2047">
+                  <String ID="string_tl_18"
+                          HEIGHT="49"
+                          WIDTH="372"
+                          VPOS="480"
+                          HPOS="2047"
+                          CONTENT="herroepelijk geworden"/>
+               </TextLine>
+               <TextLine ID="tl_19"
+                         BASELINE="565"
+                         HEIGHT="57"
+                         WIDTH="373"
+                         VPOS="508"
+                         HPOS="2047">
+                  <String ID="string_tl_19"
+                          HEIGHT="57"
+                          WIDTH="373"
+                          VPOS="508"
+                          HPOS="2047"
+                          CONTENT="veroordeeling en Recht¬"/>
+               </TextLine>
+               <TextLine ID="tl_20"
+                         BASELINE="603"
+                         HEIGHT="50"
+                         WIDTH="373"
+                         VPOS="553"
+                         HPOS="2047">
+                  <String ID="string_tl_20"
+                          HEIGHT="50"
+                          WIDTH="373"
+                          VPOS="553"
+                          HPOS="2047"
+                          CONTENT="terlijk College of Kan¬"/>
+               </TextLine>
+               <TextLine ID="tl_21"
+                         BASELINE="639"
+                         HEIGHT="47"
+                         WIDTH="372"
+                         VPOS="592"
+                         HPOS="2047">
+                  <String ID="string_tl_21"
+                          HEIGHT="47"
+                          WIDTH="372"
+                          VPOS="592"
+                          HPOS="2047"
+                          CONTENT="tongerecht hetwelk die"/>
+               </TextLine>
+               <TextLine ID="tl_22"
+                         BASELINE="677"
+                         HEIGHT="48"
+                         WIDTH="372"
+                         VPOS="629"
+                         HPOS="2047">
+                  <String ID="string_tl_22"
+                          HEIGHT="48"
+                          WIDTH="372"
+                          VPOS="629"
+                          HPOS="2047"
+                          CONTENT="veroordeeling heeft uit¬"/>
+               </TextLine>
+               <TextLine ID="tl_23"
+                         BASELINE="714"
+                         HEIGHT="46"
+                         WIDTH="371"
+                         VPOS="668"
+                         HPOS="2047">
+                  <String ID="string_tl_23"
+                          HEIGHT="46"
+                          WIDTH="371"
+                          VPOS="668"
+                          HPOS="2047"
+                          CONTENT="gesproken. Voor vast-"/>
+               </TextLine>
+               <TextLine ID="tl_24"
+                         BASELINE="752"
+                         HEIGHT="47"
+                         WIDTH="377"
+                         VPOS="705"
+                         HPOS="2042">
+                  <String ID="string_tl_24"
+                          HEIGHT="47"
+                          WIDTH="377"
+                          VPOS="705"
+                          HPOS="2042"
+                          CONTENT="gezetten wegens wan¬"/>
+               </TextLine>
+               <TextLine ID="tl_25"
+                         BASELINE="790"
+                         HEIGHT="50"
+                         WIDTH="374"
+                         VPOS="740"
+                         HPOS="2045">
+                  <String ID="string_tl_25"
+                          HEIGHT="50"
+                          WIDTH="374"
+                          VPOS="740"
+                          HPOS="2045"
+                          CONTENT="gedrag en gegijzelde ge¬"/>
+               </TextLine>
+               <TextLine ID="tl_26"
+                         BASELINE="827"
+                         HEIGHT="49"
+                         WIDTH="370"
+                         VPOS="778"
+                         HPOS="2048">
+                  <String ID="string_tl_26"
+                          HEIGHT="49"
+                          WIDTH="370"
+                          VPOS="778"
+                          HPOS="2048"
+                          CONTENT="tuigen (art. 68 Strafv.)"/>
+               </TextLine>
+               <TextLine ID="tl_27"
+                         BASELINE="859"
+                         HEIGHT="43"
+                         WIDTH="370"
+                         VPOS="816"
+                         HPOS="2049">
+                  <String ID="string_tl_27"
+                          HEIGHT="43"
+                          WIDTH="370"
+                          VPOS="816"
+                          HPOS="2049"
+                          CONTENT="het bevel van de Recht¬"/>
+               </TextLine>
+               <TextLine ID="tl_28"
+                         BASELINE="895"
+                         HEIGHT="30"
+                         WIDTH="81"
+                         VPOS="865"
+                         HPOS="2048">
+                  <String ID="string_tl_28"
+                          HEIGHT="30"
+                          WIDTH="81"
+                          VPOS="865"
+                          HPOS="2048"
+                          CONTENT="bank."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_28_2" HEIGHT="30" WIDTH="28" VPOS="897" HPOS="2222">
+               <Shape>
+                  <Polygon POINTS="2222,897 2250,897 2250,927 2222,927"/>
+               </Shape>
+               <TextLine ID="tl_29"
+                         BASELINE="926"
+                         HEIGHT="28"
+                         WIDTH="26"
+                         VPOS="898"
+                         HPOS="2223">
+                  <String ID="string_tl_29"
+                          HEIGHT="28"
+                          WIDTH="26"
+                          VPOS="898"
+                          HPOS="2223"
+                          CONTENT="7."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_29_1" HEIGHT="40" WIDTH="211" VPOS="517" HPOS="2519">
+               <Shape>
+                  <Polygon POINTS="2519,517 2730,517 2730,557 2519,557"/>
+               </Shape>
+               <TextLine ID="tl_30"
+                         BASELINE="556"
+                         HEIGHT="38"
+                         WIDTH="209"
+                         VPOS="518"
+                         HPOS="2520">
+                  <String ID="string_tl_30"
+                          HEIGHT="38"
+                          WIDTH="209"
+                          VPOS="518"
+                          HPOS="2520"
+                          CONTENT="Omschrijving"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_29_2" HEIGHT="29" WIDTH="53" VPOS="579" HPOS="2597">
+               <Shape>
+                  <Polygon POINTS="2597,579 2650,579 2650,608 2597,608"/>
+               </Shape>
+               <TextLine ID="tl_31"
+                         BASELINE="607"
+                         HEIGHT="27"
+                         WIDTH="51"
+                         VPOS="580"
+                         HPOS="2598">
+                  <String ID="string_tl_31"
+                          HEIGHT="27"
+                          WIDTH="51"
+                          VPOS="580"
+                          HPOS="2598"
+                          CONTENT="der"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_29_3" HEIGHT="92" WIDTH="357" VPOS="637" HPOS="2446">
+               <Shape>
+                  <Polygon POINTS="2446,637 2803,637 2803,729 2446,729"/>
+               </Shape>
+               <TextLine ID="tl_32"
+                         BASELINE="677"
+                         HEIGHT="39"
+                         WIDTH="355"
+                         VPOS="638"
+                         HPOS="2447">
+                  <String ID="string_tl_32"
+                          HEIGHT="39"
+                          WIDTH="355"
+                          VPOS="638"
+                          HPOS="2447"
+                          CONTENT="Overtreding of reden"/>
+               </TextLine>
+               <TextLine ID="tl_33"
+                         BASELINE="728"
+                         HEIGHT="20"
+                         WIDTH="72"
+                         VPOS="708"
+                         HPOS="2590">
+                  <String ID="string_tl_33"
+                          HEIGHT="20"
+                          WIDTH="72"
+                          VPOS="708"
+                          HPOS="2590"
+                          CONTENT="voor"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_29_4" HEIGHT="38" WIDTH="176" VPOS="760" HPOS="2544">
+               <Shape>
+                  <Polygon POINTS="2544,760 2720,760 2720,798 2544,798"/>
+               </Shape>
+               <TextLine ID="tl_34"
+                         BASELINE="797"
+                         HEIGHT="36"
+                         WIDTH="174"
+                         VPOS="761"
+                         HPOS="2545">
+                  <String ID="string_tl_34"
+                          HEIGHT="36"
+                          WIDTH="174"
+                          VPOS="761"
+                          HPOS="2545"
+                          CONTENT="vastzetting."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_30_1" HEIGHT="43" WIDTH="265" VPOS="456" HPOS="2833">
+               <Shape>
+                  <Polygon POINTS="2833,456 3098,456 3098,499 2833,499"/>
+               </Shape>
+               <TextLine ID="tl_35"
+                         BASELINE="498"
+                         HEIGHT="41"
+                         WIDTH="263"
+                         VPOS="457"
+                         HPOS="2834">
+                  <String ID="string_tl_35"
+                          HEIGHT="41"
+                          WIDTH="263"
+                          VPOS="457"
+                          HPOS="2834"
+                          CONTENT="Opgelegde Straf:"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_30_2" HEIGHT="33" WIDTH="211" VPOS="497" HPOS="2832">
+               <Shape>
+                  <Polygon POINTS="2832,497 3043,497 3043,530 2832,530"/>
+               </Shape>
+               <TextLine ID="tl_36"
+                         BASELINE="529"
+                         HEIGHT="31"
+                         WIDTH="209"
+                         VPOS="498"
+                         HPOS="2833">
+                  <String ID="string_tl_36"
+                          HEIGHT="31"
+                          WIDTH="209"
+                          VPOS="498"
+                          HPOS="2833"
+                          CONTENT="a. Hechtenis."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_30_3" HEIGHT="33" WIDTH="186" VPOS="535" HPOS="2833">
+               <Shape>
+                  <Polygon POINTS="2833,535 3019,535 3019,568 2833,568"/>
+               </Shape>
+               <TextLine ID="tl_37"
+                         BASELINE="567"
+                         HEIGHT="31"
+                         WIDTH="184"
+                         VPOS="536"
+                         HPOS="2834">
+                  <String ID="string_tl_37"
+                          HEIGHT="31"
+                          WIDTH="184"
+                          VPOS="536"
+                          HPOS="2834"
+                          CONTENT="b. Detentie."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_30_4" HEIGHT="71" WIDTH="249" VPOS="571" HPOS="2832">
+               <Shape>
+                  <Polygon POINTS="2832,571 3081,571 3081,642 2832,642"/>
+               </Shape>
+               <TextLine ID="tl_38"
+                         BASELINE="612"
+                         HEIGHT="40"
+                         WIDTH="247"
+                         VPOS="572"
+                         HPOS="2833">
+                  <String ID="string_tl_38"
+                          HEIGHT="40"
+                          WIDTH="247"
+                          VPOS="572"
+                          HPOS="2833"
+                          CONTENT="c. Vervangende"/>
+               </TextLine>
+               <TextLine ID="tl_39"
+                         BASELINE="641"
+                         HEIGHT="29"
+                         WIDTH="133"
+                         VPOS="612"
+                         HPOS="2889">
+                  <String ID="string_tl_39"
+                          HEIGHT="29"
+                          WIDTH="133"
+                          VPOS="612"
+                          HPOS="2889"
+                          CONTENT="detentie."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_31_1" HEIGHT="111" WIDTH="264" VPOS="743" HPOS="2839">
+               <Shape>
+                  <Polygon POINTS="2839,743 3103,743 3103,854 2839,854"/>
+               </Shape>
+               <TextLine ID="tl_40"
+                         BASELINE="776"
+                         HEIGHT="32"
+                         WIDTH="262"
+                         VPOS="744"
+                         HPOS="2840">
+                  <String ID="string_tl_40"
+                          HEIGHT="32"
+                          WIDTH="262"
+                          VPOS="744"
+                          HPOS="2840"
+                          CONTENT="Voor vastgezetten :"/>
+               </TextLine>
+               <TextLine ID="tl_41"
+                         BASELINE="807"
+                         HEIGHT="32"
+                         WIDTH="156"
+                         VPOS="775"
+                         HPOS="2891">
+                  <String ID="string_tl_41"
+                          HEIGHT="32"
+                          WIDTH="156"
+                          VPOS="775"
+                          HPOS="2891"
+                          CONTENT="Duur der"/>
+               </TextLine>
+               <TextLine ID="tl_42"
+                         BASELINE="853"
+                         HEIGHT="39"
+                         WIDTH="177"
+                         VPOS="814"
+                         HPOS="2884">
+                  <String ID="string_tl_42"
+                          HEIGHT="39"
+                          WIDTH="177"
+                          VPOS="814"
+                          HPOS="2884"
+                          CONTENT="vastzetting."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_36_1"
+                       HEIGHT="235"
+                       WIDTH="868"
+                       VPOS="1864"
+                       HPOS="2512">
+               <Shape>
+                  <Polygon POINTS="2529,1864 3375,1894 3380,2099 2512,2082"/>
+               </Shape>
+               <TextLine ID="tl_43"
+                         BASELINE="2068"
+                         HEIGHT="159"
+                         WIDTH="805"
+                         VPOS="1909"
+                         HPOS="2552">
+                  <String ID="string_tl_43"
+                          HEIGHT="159"
+                          WIDTH="805"
+                          VPOS="1909"
+                          HPOS="2552"
+                          CONTENT="In transport"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_37_1" HEIGHT="94" WIDTH="285" VPOS="2856" HPOS="2128">
+               <Shape>
+                  <Polygon POINTS="2128,2856 2413,2856 2413,2950 2128,2950"/>
+               </Shape>
+               <TextLine ID="tl_44"
+                         BASELINE="2949"
+                         HEIGHT="92"
+                         WIDTH="283"
+                         VPOS="2857"
+                         HPOS="2129">
+                  <String ID="string_tl_44"
+                          HEIGHT="92"
+                          WIDTH="283"
+                          VPOS="2857"
+                          HPOS="2129"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_38_1" HEIGHT="50" WIDTH="126" VPOS="3632" HPOS="1912">
+               <Shape>
+                  <Polygon POINTS="1912,3632 2038,3632 2038,3682 1912,3682"/>
+               </Shape>
+               <TextLine ID="tl_45"
+                         BASELINE="3681"
+                         HEIGHT="48"
+                         WIDTH="124"
+                         VPOS="3633"
+                         HPOS="1913">
+                  <String ID="string_tl_45"
+                          HEIGHT="48"
+                          WIDTH="124"
+                          VPOS="3633"
+                          HPOS="1913"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1600348885976_765"
+                       HEIGHT="235"
+                       WIDTH="821"
+                       VPOS="3280"
+                       HPOS="2554">
+               <Shape>
+                  <Polygon POINTS="2554,3280 2554,3515 3375,3515 3375,3280"/>
+               </Shape>
+               <TextLine ID="line_1600348886860_768"
+                         BASELINE="3515"
+                         HEIGHT="235"
+                         WIDTH="821"
+                         VPOS="3280"
+                         HPOS="2554">
+                  <String ID="string_line_1600348886860_768"
+                          HEIGHT="235"
+                          WIDTH="821"
+                          VPOS="3280"
+                          HPOS="2554"
+                          CONTENT="In transport"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_40_1" HEIGHT="82" WIDTH="131" VPOS="3992" HPOS="2700">
+               <Shape>
+                  <Polygon POINTS="2700,3992 2831,3992 2831,4074 2700,4074"/>
+               </Shape>
+               <TextLine ID="tl_46"
+                         BASELINE="4073"
+                         HEIGHT="80"
+                         WIDTH="129"
+                         VPOS="3993"
+                         HPOS="2701">
+                  <String ID="string_tl_46"
+                          HEIGHT="80"
+                          WIDTH="129"
+                          VPOS="3993"
+                          HPOS="2701"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_43_1" HEIGHT="86" WIDTH="233" VPOS="4642" HPOS="2056">
+               <Shape>
+                  <Polygon POINTS="2056,4642 2289,4642 2289,4728 2056,4728"/>
+               </Shape>
+               <TextLine ID="tl_47"
+                         BASELINE="4727"
+                         HEIGHT="84"
+                         WIDTH="231"
+                         VPOS="4643"
+                         HPOS="2057">
+                  <String ID="string_tl_47"
+                          HEIGHT="84"
+                          WIDTH="231"
+                          VPOS="4643"
+                          HPOS="2057"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_44_1" HEIGHT="90" WIDTH="137" VPOS="4683" HPOS="2309">
+               <Shape>
+                  <Polygon POINTS="2309,4683 2446,4683 2446,4773 2309,4773"/>
+               </Shape>
+               <TextLine ID="tl_48"
+                         BASELINE="4772"
+                         HEIGHT="88"
+                         WIDTH="135"
+                         VPOS="4684"
+                         HPOS="2310">
+                  <String ID="string_tl_48"
+                          HEIGHT="88"
+                          WIDTH="135"
+                          VPOS="4684"
+                          HPOS="2310"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_45_1" HEIGHT="79" WIDTH="376" VPOS="4822" HPOS="2072">
+               <Shape>
+                  <Polygon POINTS="2072,4822 2448,4822 2448,4901 2072,4901"/>
+               </Shape>
+               <TextLine ID="tl_49"
+                         BASELINE="4900"
+                         HEIGHT="77"
+                         WIDTH="374"
+                         VPOS="4823"
+                         HPOS="2073">
+                  <String ID="string_tl_49"
+                          HEIGHT="77"
+                          WIDTH="374"
+                          VPOS="4823"
+                          HPOS="2073"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_45_2" HEIGHT="94" WIDTH="112" VPOS="4924" HPOS="2143">
+               <Shape>
+                  <Polygon POINTS="2143,4924 2255,4924 2255,5018 2143,5018"/>
+               </Shape>
+               <TextLine ID="tl_50"
+                         BASELINE="5017"
+                         HEIGHT="92"
+                         WIDTH="110"
+                         VPOS="4925"
+                         HPOS="2144">
+                  <String ID="string_tl_50"
+                          HEIGHT="92"
+                          WIDTH="110"
+                          VPOS="4925"
+                          HPOS="2144"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_45_3"
+                       HEIGHT="106"
+                       WIDTH="289"
+                       VPOS="5017"
+                       HPOS="2053">
+               <Shape>
+                  <Polygon POINTS="2053,5017 2342,5017 2342,5123 2053,5123"/>
+               </Shape>
+               <TextLine ID="tl_51"
+                         BASELINE="5122"
+                         HEIGHT="104"
+                         WIDTH="287"
+                         VPOS="5018"
+                         HPOS="2054">
+                  <String ID="string_tl_51"
+                          HEIGHT="104"
+                          WIDTH="287"
+                          VPOS="5018"
+                          HPOS="2054"
+                          CONTENT="Dagteekening waar¬"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_53_1" HEIGHT="93" WIDTH="148" VPOS="286" HPOS="7029">
+               <Shape>
+                  <Polygon POINTS="7029,286 7177,286 7177,379 7029,379"/>
+               </Shape>
+               <TextLine ID="tl_52"
+                         BASELINE="378"
+                         HEIGHT="91"
+                         WIDTH="146"
+                         VPOS="287"
+                         HPOS="7030">
+                  <String ID="string_tl_52"
+                          HEIGHT="91"
+                          WIDTH="146"
+                          VPOS="287"
+                          HPOS="7030"
+                          CONTENT="op de straf of"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_54_1" HEIGHT="124" WIDTH="312" VPOS="445" HPOS="3122">
+               <Shape>
+                  <Polygon POINTS="3122,445 3434,445 3434,569 3122,569"/>
+               </Shape>
+               <TextLine ID="tl_53"
+                         BASELINE="496"
+                         HEIGHT="50"
+                         WIDTH="310"
+                         VPOS="446"
+                         HPOS="3123">
+                  <String ID="string_tl_53"
+                          HEIGHT="50"
+                          WIDTH="310"
+                          VPOS="446"
+                          HPOS="3123"
+                          CONTENT="vastzetting"/>
+               </TextLine>
+               <TextLine ID="tl_54"
+                         BASELINE="529"
+                         HEIGHT="42"
+                         WIDTH="232"
+                         VPOS="487"
+                         HPOS="3165">
+                  <String ID="string_tl_54"
+                          HEIGHT="42"
+                          WIDTH="232"
+                          VPOS="487"
+                          HPOS="3165"
+                          CONTENT="ingaat. eindigt."/>
+               </TextLine>
+               <TextLine ID="tl_55"
+                         BASELINE="568"
+                         HEIGHT="42"
+                         WIDTH="168"
+                         VPOS="526"
+                         HPOS="3195">
+                  <String ID="string_tl_55"
+                          HEIGHT="42"
+                          WIDTH="168"
+                          VPOS="526"
+                          HPOS="3195"
+                          CONTENT="Acte van overnemini"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_55_1" HEIGHT="48" WIDTH="271" VPOS="727" HPOS="3150">
+               <Shape>
+                  <Polygon POINTS="3150,727 3421,727 3421,775 3150,775"/>
+               </Shape>
+               <TextLine ID="tl_56"
+                         BASELINE="774"
+                         HEIGHT="46"
+                         WIDTH="269"
+                         VPOS="728"
+                         HPOS="3151">
+                  <String ID="string_tl_56"
+                          HEIGHT="46"
+                          WIDTH="269"
+                          VPOS="728"
+                          HPOS="3151"
+                          CONTENT="doorden inbrenger^"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_56_1" HEIGHT="245" WIDTH="310" VPOS="499" HPOS="3450">
+               <Shape>
+                  <Polygon POINTS="3450,499 3760,499 3760,744 3450,744"/>
+               </Shape>
+               <TextLine ID="tl_57"
+                         BASELINE="555"
+                         HEIGHT="55"
+                         WIDTH="287"
+                         VPOS="500"
+                         HPOS="3451">
+                  <String ID="string_tl_57"
+                          HEIGHT="55"
+                          WIDTH="287"
+                          VPOS="500"
+                          HPOS="3451"
+                          CONTENT="het hoofd van het {"/>
+               </TextLine>
+               <TextLine ID="tl_58"
+                         BASELINE="611"
+                         HEIGHT="72"
+                         WIDTH="308"
+                         VPOS="539"
+                         HPOS="3451">
+                  <String ID="string_tl_58"
+                          HEIGHT="72"
+                          WIDTH="308"
+                          VPOS="539"
+                          HPOS="3451"
+                          CONTENT="gesticht te"/>
+               </TextLine>
+               <TextLine ID="tl_59"
+                         BASELINE="658"
+                         HEIGHT="59"
+                         WIDTH="289"
+                         VPOS="599"
+                         HPOS="3463">
+                  <String ID="string_tl_59"
+                          HEIGHT="59"
+                          WIDTH="289"
+                          VPOS="599"
+                          HPOS="3463"
+                          CONTENT="onderteekenen."/>
+               </TextLine>
+               <TextLine ID="tl_60"
+                         BASELINE="695"
+                         HEIGHT="43"
+                         WIDTH="159"
+                         VPOS="652"
+                         HPOS="3535">
+                  <String ID="string_tl_60"
+                          HEIGHT="43"
+                          WIDTH="159"
+                          VPOS="652"
+                          HPOS="3535"
+                          CONTENT="Bij vertrek uit anderen hoofde"/>
+               </TextLine>
+               <TextLine ID="tl_61"
+                         BASELINE="743"
+                         HEIGHT="44"
+                         WIDTH="222"
+                         VPOS="699"
+                         HPOS="3499">
+                  <String ID="string_tl_61"
+                          HEIGHT="44"
+                          WIDTH="222"
+                          VPOS="699"
+                          HPOS="3499"
+                          CONTENT="dan door de expiratie van de"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_57_1" HEIGHT="163" WIDTH="514" VPOS="451" HPOS="3813">
+               <Shape>
+                  <Polygon POINTS="3813,451 4327,451 4327,614 3813,614"/>
+               </Shape>
+               <TextLine ID="tl_62"
+                         BASELINE="500"
+                         HEIGHT="48"
+                         WIDTH="466"
+                         VPOS="452"
+                         HPOS="3859">
+                  <String ID="string_tl_62"
+                          HEIGHT="48"
+                          WIDTH="466"
+                          VPOS="452"
+                          HPOS="3859"
+                          CONTENT="straf of van den duur der vast¬"/>
+               </TextLine>
+               <TextLine ID="tl_63"
+                         BASELINE="535"
+                         HEIGHT="45"
+                         WIDTH="512"
+                         VPOS="490"
+                         HPOS="3814">
+                  <String ID="string_tl_63"
+                          HEIGHT="45"
+                          WIDTH="512"
+                          VPOS="490"
+                          HPOS="3814"
+                          CONTENT="zetting."/>
+               </TextLine>
+               <TextLine ID="tl_64"
+                         BASELINE="568"
+                         HEIGHT="39"
+                         WIDTH="502"
+                         VPOS="529"
+                         HPOS="3815">
+                  <String ID="string_tl_64"
+                          HEIGHT="39"
+                          WIDTH="502"
+                          VPOS="529"
+                          HPOS="3815"
+                          CONTENT="Dagteeke¬"/>
+               </TextLine>
+               <TextLine ID="tl_65"
+                         BASELINE="613"
+                         HEIGHT="38"
+                         WIDTH="111"
+                         VPOS="575"
+                         HPOS="3815">
+                  <String ID="string_tl_65"
+                          HEIGHT="38"
+                          WIDTH="111"
+                          VPOS="575"
+                          HPOS="3815"
+                          CONTENT="ning van dat"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_58_1" HEIGHT="155" WIDTH="200" VPOS="678" HPOS="3806">
+               <Shape>
+                  <Polygon POINTS="3806,678 4006,678 4006,833 3806,833"/>
+               </Shape>
+               <TextLine ID="tl_66"
+                         BASELINE="720"
+                         HEIGHT="41"
+                         WIDTH="161"
+                         VPOS="679"
+                         HPOS="3825">
+                  <String ID="string_tl_66"
+                          HEIGHT="41"
+                          WIDTH="161"
+                          VPOS="679"
+                          HPOS="3825"
+                          CONTENT="vertrek."/>
+               </TextLine>
+               <TextLine ID="tl_67"
+                         BASELINE="780"
+                         HEIGHT="42"
+                         WIDTH="198"
+                         VPOS="738"
+                         HPOS="3807">
+                  <String ID="string_tl_67"
+                          HEIGHT="42"
+                          WIDTH="198"
+                          VPOS="738"
+                          HPOS="3807"
+                          CONTENT="13."/>
+               </TextLine>
+               <TextLine ID="tl_68"
+                         BASELINE="832"
+                         HEIGHT="32"
+                         WIDTH="117"
+                         VPOS="800"
+                         HPOS="3848">
+                  <String ID="string_tl_68"
+                          HEIGHT="32"
+                          WIDTH="117"
+                          VPOS="800"
+                          HPOS="3848"
+                          CONTENT="Bij vervoer naar"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_58_2" HEIGHT="32" WIDTH="44" VPOS="903" HPOS="3882">
+               <Shape>
+                  <Polygon POINTS="3882,903 3926,903 3926,935 3882,935"/>
+               </Shape>
+               <TextLine ID="tl_69"
+                         BASELINE="934"
+                         HEIGHT="30"
+                         WIDTH="42"
+                         VPOS="904"
+                         HPOS="3883">
+                  <String ID="string_tl_69"
+                          HEIGHT="30"
+                          WIDTH="42"
+                          VPOS="904"
+                          HPOS="3883"
+                          CONTENT="elders: waarheen, en"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_59_1" HEIGHT="160" WIDTH="509" VPOS="531" HPOS="4173">
+               <Shape>
+                  <Polygon POINTS="4173,531 4682,531 4682,691 4173,691"/>
+               </Shape>
+               <TextLine ID="tl_70"
+                         BASELINE="570"
+                         HEIGHT="38"
+                         WIDTH="262"
+                         VPOS="532"
+                         HPOS="4380">
+                  <String ID="string_tl_70"
+                          HEIGHT="38"
+                          WIDTH="262"
+                          VPOS="532"
+                          HPOS="4380"
+                          CONTENT="is daartoe bc- handteekening van"/>
+               </TextLine>
+               <TextLine ID="tl_71"
+                         BASELINE="628"
+                         HEIGHT="36"
+                         WIDTH="338"
+                         VPOS="592"
+                         HPOS="4343">
+                  <String ID="string_tl_71"
+                          HEIGHT="36"
+                          WIDTH="338"
+                          VPOS="592"
+                          HPOS="4343"
+                          CONTENT="vel gegeven"/>
+               </TextLine>
+               <TextLine ID="tl_72"
+                         BASELINE="690"
+                         HEIGHT="39"
+                         WIDTH="489"
+                         VPOS="651"
+                         HPOS="4174">
+                  <String ID="string_tl_72"
+                          HEIGHT="39"
+                          WIDTH="489"
+                          VPOS="651"
+                          HPOS="4174"
+                          CONTENT="ofverkend'&#34;8 den geleider met hel"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_59_2" HEIGHT="25" WIDTH="137" VPOS="686" HPOS="4184">
+               <Shape>
+                  <Polygon POINTS="4184,686 4321,686 4321,711 4184,711"/>
+               </Shape>
+               <TextLine ID="tl_73"
+                         BASELINE="710"
+                         HEIGHT="23"
+                         WIDTH="135"
+                         VPOS="687"
+                         HPOS="4185">
+                  <String ID="string_tl_73"
+                          HEIGHT="23"
+                          WIDTH="135"
+                          VPOS="687"
+                          HPOS="4185"
+                          CONTENT="14."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_59_3" HEIGHT="47" WIDTH="517" VPOS="708" HPOS="4172">
+               <Shape>
+                  <Polygon POINTS="4172,708 4689,708 4689,755 4172,755"/>
+               </Shape>
+               <TextLine ID="tl_74"
+                         BASELINE="754"
+                         HEIGHT="45"
+                         WIDTH="515"
+                         VPOS="709"
+                         HPOS="4173">
+                  <String ID="string_tl_74"
+                          HEIGHT="45"
+                          WIDTH="515"
+                          VPOS="709"
+                          HPOS="4173"
+                          CONTENT="15."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_60_1" HEIGHT="31" WIDTH="44" VPOS="898" HPOS="4069">
+               <Shape>
+                  <Polygon POINTS="4069,898 4113,898 4113,929 4069,929"/>
+               </Shape>
+               <TextLine ID="tl_75"
+                         BASELINE="928"
+                         HEIGHT="29"
+                         WIDTH="42"
+                         VPOS="899"
+                         HPOS="4070">
+                  <String ID="string_tl_75"
+                          HEIGHT="29"
+                          WIDTH="42"
+                          VPOS="899"
+                          HPOS="4070"
+                          CONTENT="vervoer belast."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_61_1" HEIGHT="30" WIDTH="45" VPOS="898" HPOS="4231">
+               <Shape>
+                  <Polygon POINTS="4231,898 4276,898 4276,928 4231,928"/>
+               </Shape>
+               <TextLine ID="tl_76"
+                         BASELINE="927"
+                         HEIGHT="28"
+                         WIDTH="43"
+                         VPOS="899"
+                         HPOS="4232">
+                  <String ID="string_tl_76"
+                          HEIGHT="28"
+                          WIDTH="43"
+                          VPOS="899"
+                          HPOS="4232"
+                          CONTENT="16."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_62_1" HEIGHT="31" WIDTH="237" VPOS="771" HPOS="4393">
+               <Shape>
+                  <Polygon POINTS="4393,771 4630,771 4630,802 4393,802"/>
+               </Shape>
+               <TextLine ID="tl_77"
+                         BASELINE="801"
+                         HEIGHT="29"
+                         WIDTH="235"
+                         VPOS="772"
+                         HPOS="4394">
+                  <String ID="string_tl_77"
+                          HEIGHT="29"
+                          WIDTH="235"
+                          VPOS="772"
+                          HPOS="4394"
+                          CONTENT="I Verminde¬"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_63_1" HEIGHT="29" WIDTH="45" VPOS="899" HPOS="4493">
+               <Shape>
+                  <Polygon POINTS="4493,899 4538,899 4538,928 4493,928"/>
+               </Shape>
+               <TextLine ID="tl_78"
+                         BASELINE="927"
+                         HEIGHT="27"
+                         WIDTH="43"
+                         VPOS="900"
+                         HPOS="4494">
+                  <String ID="string_tl_78"
+                          HEIGHT="27"
+                          WIDTH="43"
+                          VPOS="900"
+                          HPOS="4494"
+                          CONTENT="ring van straf"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_64_1" HEIGHT="297" WIDTH="221" VPOS="526" HPOS="4693">
+               <Shape>
+                  <Polygon POINTS="4693,526 4914,526 4914,823 4693,823"/>
+               </Shape>
+               <TextLine ID="tl_79"
+                         BASELINE="563"
+                         HEIGHT="36"
+                         WIDTH="203"
+                         VPOS="527"
+                         HPOS="4694">
+                  <String ID="string_tl_79"
+                          HEIGHT="36"
+                          WIDTH="203"
+                          VPOS="527"
+                          HPOS="4694"
+                          CONTENT="met vermel¬"/>
+               </TextLine>
+               <TextLine ID="tl_80"
+                         BASELINE="608"
+                         HEIGHT="37"
+                         WIDTH="214"
+                         VPOS="571"
+                         HPOS="4699">
+                  <String ID="string_tl_80"
+                          HEIGHT="37"
+                          WIDTH="214"
+                          VPOS="571"
+                          HPOS="4699"
+                          CONTENT="ding van het"/>
+               </TextLine>
+               <TextLine ID="tl_81"
+                         BASELINE="637"
+                         HEIGHT="28"
+                         WIDTH="194"
+                         VPOS="609"
+                         HPOS="4710">
+                  <String ID="string_tl_81"
+                          HEIGHT="28"
+                          WIDTH="194"
+                          VPOS="609"
+                          HPOS="4710"
+                          CONTENT="daartoe be¬"/>
+               </TextLine>
+               <TextLine ID="tl_82"
+                         BASELINE="682"
+                         HEIGHT="36"
+                         WIDTH="206"
+                         VPOS="646"
+                         HPOS="4703">
+                  <String ID="string_tl_82"
+                          HEIGHT="36"
+                          WIDTH="206"
+                          VPOS="646"
+                          HPOS="4703"
+                          CONTENT="trekkelijk"/>
+               </TextLine>
+               <TextLine ID="tl_83"
+                         BASELINE="712"
+                         HEIGHT="29"
+                         WIDTH="181"
+                         VPOS="683"
+                         HPOS="4716">
+                  <String ID="string_tl_83"
+                          HEIGHT="29"
+                          WIDTH="181"
+                          VPOS="683"
+                          HPOS="4716"
+                          CONTENT="Koninklijk"/>
+               </TextLine>
+               <TextLine ID="tl_84"
+                         BASELINE="756"
+                         HEIGHT="36"
+                         WIDTH="145"
+                         VPOS="720"
+                         HPOS="4735">
+                  <String ID="string_tl_84"
+                          HEIGHT="36"
+                          WIDTH="145"
+                          VPOS="720"
+                          HPOS="4735"
+                          CONTENT="besluit."/>
+               </TextLine>
+               <TextLine ID="tl_85"
+                         BASELINE="793"
+                         HEIGHT="36"
+                         WIDTH="159"
+                         VPOS="757"
+                         HPOS="4730">
+                  <String ID="string_tl_85"
+                          HEIGHT="36"
+                          WIDTH="159"
+                          VPOS="757"
+                          HPOS="4730"
+                          CONTENT="Welke straffen heeft"/>
+               </TextLine>
+               <TextLine ID="tl_86"
+                         BASELINE="822"
+                         HEIGHT="27"
+                         WIDTH="111"
+                         VPOS="795"
+                         HPOS="4753">
+                  <String ID="string_tl_86"
+                          HEIGHT="27"
+                          WIDTH="111"
+                          VPOS="795"
+                          HPOS="4753"
+                          CONTENT="de veroordeelde"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_65_1" HEIGHT="90" WIDTH="334" VPOS="482" HPOS="4938">
+               <Shape>
+                  <Polygon POINTS="4938,482 5272,482 5272,572 4938,572"/>
+               </Shape>
+               <TextLine ID="tl_87"
+                         BASELINE="512"
+                         HEIGHT="29"
+                         WIDTH="332"
+                         VPOS="483"
+                         HPOS="4939">
+                  <String ID="string_tl_87"
+                          HEIGHT="29"
+                          WIDTH="332"
+                          VPOS="483"
+                          HPOS="4939"
+                          CONTENT="17."/>
+               </TextLine>
+               <TextLine ID="tl_88"
+                         BASELINE="571"
+                         HEIGHT="28"
+                         WIDTH="260"
+                         VPOS="543"
+                         HPOS="4973">
+                  <String ID="string_tl_88"
+                          HEIGHT="28"
+                          WIDTH="260"
+                          VPOS="543"
+                          HPOS="4973"
+                          CONTENT="na het ein¬"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_66_1" HEIGHT="28" WIDTH="43" VPOS="898" HPOS="4791">
+               <Shape>
+                  <Polygon POINTS="4791,898 4834,898 4834,926 4791,926"/>
+               </Shape>
+               <TextLine ID="tl_89"
+                         BASELINE="925"
+                         HEIGHT="26"
+                         WIDTH="41"
+                         VPOS="899"
+                         HPOS="4792">
+                  <String ID="string_tl_89"
+                          HEIGHT="26"
+                          WIDTH="41"
+                          VPOS="899"
+                          HPOS="4792"
+                          CONTENT="de der straf"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_67_1" HEIGHT="181" WIDTH="178" VPOS="673" HPOS="4925">
+               <Shape>
+                  <Polygon POINTS="4925,673 5103,673 5103,854 4925,854"/>
+               </Shape>
+               <TextLine ID="tl_90"
+                         BASELINE="702"
+                         HEIGHT="28"
+                         WIDTH="173"
+                         VPOS="674"
+                         HPOS="4926">
+                  <String ID="string_tl_90"
+                          HEIGHT="28"
+                          WIDTH="173"
+                          VPOS="674"
+                          HPOS="4926"
+                          CONTENT="nog te on¬"/>
+               </TextLine>
+               <TextLine ID="tl_91"
+                         BASELINE="750"
+                         HEIGHT="29"
+                         WIDTH="175"
+                         VPOS="721"
+                         HPOS="4927">
+                  <String ID="string_tl_91"
+                          HEIGHT="29"
+                          WIDTH="175"
+                          VPOS="721"
+                          HPOS="4927"
+                          CONTENT="dergaan."/>
+               </TextLine>
+               <TextLine ID="tl_92"
+                         BASELINE="805"
+                         HEIGHT="33"
+                         WIDTH="173"
+                         VPOS="772"
+                         HPOS="4929">
+                  <String ID="string_tl_92"
+                          HEIGHT="33"
+                          WIDTH="173"
+                          VPOS="772"
+                          HPOS="4929"
+                          CONTENT="18."/>
+               </TextLine>
+               <TextLine ID="tl_93"
+                         BASELINE="853"
+                         HEIGHT="34"
+                         WIDTH="130"
+                         VPOS="819"
+                         HPOS="4950">
+                  <String ID="string_tl_93"
+                          HEIGHT="34"
+                          WIDTH="130"
+                          VPOS="819"
+                          HPOS="4950"
+                          CONTENT="óp*"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_67_2" HEIGHT="29" WIDTH="43" VPOS="899" HPOS="4992">
+               <Shape>
+                  <Polygon POINTS="4992,899 5035,899 5035,928 4992,928"/>
+               </Shape>
+               <TextLine ID="tl_94"
+                         BASELINE="927"
+                         HEIGHT="27"
+                         WIDTH="41"
+                         VPOS="900"
+                         HPOS="4993">
+                  <String ID="string_tl_94"
+                          HEIGHT="27"
+                          WIDTH="41"
+                          VPOS="900"
+                          HPOS="4993"
+                          CONTENT="m,"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_68_1" HEIGHT="34" WIDTH="50" VPOS="1009" HPOS="3666">
+               <Shape>
+                  <Polygon POINTS="3666,1009 3716,1009 3716,1043 3666,1043"/>
+               </Shape>
+               <TextLine ID="tl_95"
+                         BASELINE="1042"
+                         HEIGHT="32"
+                         WIDTH="48"
+                         VPOS="1010"
+                         HPOS="3667">
+                  <String ID="string_tl_95"
+                          HEIGHT="32"
+                          WIDTH="48"
+                          VPOS="1010"
+                          HPOS="3667"
+                          CONTENT="Cf"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_68_2" HEIGHT="54" WIDTH="117" VPOS="1209" HPOS="3497">
+               <Shape>
+                  <Polygon POINTS="3497,1209 3614,1209 3614,1263 3497,1263"/>
+               </Shape>
+               <TextLine ID="tl_96"
+                         BASELINE="1262"
+                         HEIGHT="52"
+                         WIDTH="115"
+                         VPOS="1210"
+                         HPOS="3498">
+                  <String ID="string_tl_96"
+                          HEIGHT="52"
+                          WIDTH="115"
+                          VPOS="1210"
+                          HPOS="3498"
+                          CONTENT="%"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_69_1" HEIGHT="21" WIDTH="41" VPOS="1110" HPOS="4570">
+               <Shape>
+                  <Polygon POINTS="4570,1110 4611,1110 4611,1131 4570,1131"/>
+               </Shape>
+               <TextLine ID="tl_97"
+                         BASELINE="1130"
+                         HEIGHT="19"
+                         WIDTH="39"
+                         VPOS="1111"
+                         HPOS="4571">
+                  <String ID="string_tl_97"
+                          HEIGHT="19"
+                          WIDTH="39"
+                          VPOS="1111"
+                          HPOS="4571"
+                          CONTENT="r&gt;"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_71_1" HEIGHT="98" WIDTH="90" VPOS="1770" HPOS="4044">
+               <Shape>
+                  <Polygon POINTS="4044,1770 4134,1770 4134,1868 4044,1868"/>
+               </Shape>
+               <TextLine ID="tl_98"
+                         BASELINE="1867"
+                         HEIGHT="96"
+                         WIDTH="88"
+                         VPOS="1771"
+                         HPOS="4045">
+                  <String ID="string_tl_98"
+                          HEIGHT="96"
+                          WIDTH="88"
+                          VPOS="1771"
+                          HPOS="4045"
+                          CONTENT="Dagteekening"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_73_1" HEIGHT="44" WIDTH="57" VPOS="2030" HPOS="3782">
+               <Shape>
+                  <Polygon POINTS="3782,2030 3839,2030 3839,2074 3782,2074"/>
+               </Shape>
+               <TextLine ID="tl_99"
+                         BASELINE="2073"
+                         HEIGHT="42"
+                         WIDTH="55"
+                         VPOS="2031"
+                         HPOS="3783">
+                  <String ID="string_tl_99"
+                          HEIGHT="42"
+                          WIDTH="55"
+                          VPOS="2031"
+                          HPOS="3783"
+                          CONTENT="der"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_74_1" HEIGHT="97" WIDTH="227" VPOS="464" HPOS="5352">
+               <Shape>
+                  <Polygon POINTS="5352,464 5579,464 5579,561 5352,561"/>
+               </Shape>
+               <TextLine ID="tl_100"
+                         BASELINE="501"
+                         HEIGHT="36"
+                         WIDTH="211"
+                         VPOS="465"
+                         HPOS="5367">
+                  <String ID="string_tl_100"
+                          HEIGHT="36"
+                          WIDTH="211"
+                          VPOS="465"
+                          HPOS="5367"
+                          CONTENT="définitieve"/>
+               </TextLine>
+               <TextLine ID="tl_101"
+                         BASELINE="560"
+                         HEIGHT="27"
+                         WIDTH="51"
+                         VPOS="533"
+                         HPOS="5353">
+                  <String ID="string_tl_101"
+                          HEIGHT="27"
+                          WIDTH="51"
+                          VPOS="533"
+                          HPOS="5353"
+                          CONTENT="invrijheid¬"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_74_2" HEIGHT="292" WIDTH="189" VPOS="568" HPOS="5294">
+               <Shape>
+                  <Polygon POINTS="5294,568 5483,568 5483,860 5294,860"/>
+               </Shape>
+               <TextLine ID="tl_102"
+                         BASELINE="598"
+                         HEIGHT="29"
+                         WIDTH="158"
+                         VPOS="569"
+                         HPOS="5301">
+                  <String ID="string_tl_102"
+                          HEIGHT="29"
+                          WIDTH="158"
+                          VPOS="569"
+                          HPOS="5301"
+                          CONTENT="stelling ■"/>
+               </TextLine>
+               <TextLine ID="tl_103"
+                         BASELINE="643"
+                         HEIGHT="37"
+                         WIDTH="160"
+                         VPOS="606"
+                         HPOS="5302">
+                  <String ID="string_tl_103"
+                          HEIGHT="37"
+                          WIDTH="160"
+                          VPOS="606"
+                          HPOS="5302"
+                          CONTENT="voorzoover"/>
+               </TextLine>
+               <TextLine ID="tl_104"
+                         BASELINE="679"
+                         HEIGHT="36"
+                         WIDTH="157"
+                         VPOS="643"
+                         HPOS="5325">
+                  <String ID="string_tl_104"
+                          HEIGHT="36"
+                          WIDTH="157"
+                          VPOS="643"
+                          HPOS="5325"
+                          CONTENT="deze niet"/>
+               </TextLine>
+               <TextLine ID="tl_105"
+                         BASELINE="709"
+                         HEIGHT="22"
+                         WIDTH="174"
+                         VPOS="687"
+                         HPOS="5295">
+                  <String ID="string_tl_105"
+                          HEIGHT="22"
+                          WIDTH="174"
+                          VPOS="687"
+                          HPOS="5295"
+                          CONTENT="reeds in |"/>
+               </TextLine>
+               <TextLine ID="tl_106"
+                         BASELINE="747"
+                         HEIGHT="30"
+                         WIDTH="152"
+                         VPOS="717"
+                         HPOS="5307">
+                  <String ID="string_tl_106"
+                          HEIGHT="30"
+                          WIDTH="152"
+                          VPOS="717"
+                          HPOS="5307"
+                          CONTENT="kolom 13"/>
+               </TextLine>
+               <TextLine ID="tl_107"
+                         BASELINE="789"
+                         HEIGHT="39"
+                         WIDTH="154"
+                         VPOS="750"
+                         HPOS="5317">
+                  <String ID="string_tl_107"
+                          HEIGHT="39"
+                          WIDTH="154"
+                          VPOS="750"
+                          HPOS="5317"
+                          CONTENT="is vermeld."/>
+               </TextLine>
+               <TextLine ID="tl_108"
+                         BASELINE="822"
+                         HEIGHT="31"
+                         WIDTH="150"
+                         VPOS="791"
+                         HPOS="5309">
+                  <String ID="string_tl_108"
+                          HEIGHT="31"
+                          WIDTH="150"
+                          VPOS="791"
+                          HPOS="5309"
+                          CONTENT="BIJZONDERE"/>
+               </TextLine>
+               <TextLine ID="tl_109"
+                         BASELINE="859"
+                         HEIGHT="31"
+                         WIDTH="173"
+                         VPOS="828"
+                         HPOS="5298">
+                  <String ID="string_tl_109"
+                          HEIGHT="31"
+                          WIDTH="173"
+                          VPOS="828"
+                          HPOS="5298"
+                          CONTENT="RENSEIGNEMENTEN."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_75_1" HEIGHT="43" WIDTH="221" VPOS="590" HPOS="5836">
+               <Shape>
+                  <Polygon POINTS="5836,590 6057,590 6057,633 5836,633"/>
+               </Shape>
+               <TextLine ID="tl_110"
+                         BASELINE="632"
+                         HEIGHT="41"
+                         WIDTH="219"
+                         VPOS="591"
+                         HPOS="5837">
+                  <String ID="string_tl_110"
+                          HEIGHT="41"
+                          WIDTH="219"
+                          VPOS="591"
+                          HPOS="5837"
+                          CONTENT="Geslacht"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_75_2" HEIGHT="43" WIDTH="365" VPOS="668" HPOS="5767">
+               <Shape>
+                  <Polygon POINTS="5767,668 6132,668 6132,711 5767,711"/>
+               </Shape>
+               <TextLine ID="tl_111"
+                         BASELINE="710"
+                         HEIGHT="41"
+                         WIDTH="363"
+                         VPOS="669"
+                         HPOS="5768">
+                  <String ID="string_tl_111"
+                          HEIGHT="41"
+                          WIDTH="363"
+                          VPOS="669"
+                          HPOS="5768"
+                          CONTENT="Vader"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_76_1" HEIGHT="33" WIDTH="137" VPOS="998" HPOS="5706">
+               <Shape>
+                  <Polygon POINTS="5706,998 5843,998 5843,1031 5706,1031"/>
+               </Shape>
+               <TextLine ID="tl_112"
+                         BASELINE="1030"
+                         HEIGHT="31"
+                         WIDTH="135"
+                         VPOS="999"
+                         HPOS="5707">
+                  <String ID="string_tl_112"
+                          HEIGHT="31"
+                          WIDTH="135"
+                          VPOS="999"
+                          HPOS="5707"
+                          CONTENT="Moeder"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_76_2" HEIGHT="32" WIDTH="93" VPOS="1058" HPOS="5705">
+               <Shape>
+                  <Polygon POINTS="5705,1058 5798,1058 5798,1090 5705,1090"/>
+               </Shape>
+               <TextLine ID="tl_113"
+                         BASELINE="1089"
+                         HEIGHT="30"
+                         WIDTH="91"
+                         VPOS="1059"
+                         HPOS="5706">
+                  <String ID="string_tl_113"
+                          HEIGHT="30"
+                          WIDTH="91"
+                          VPOS="1059"
+                          HPOS="5706"
+                          CONTENT="Nationaliteit"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_76_3" HEIGHT="33" WIDTH="119" VPOS="1117" HPOS="5706">
+               <Shape>
+                  <Polygon POINTS="5706,1117 5825,1117 5825,1150 5706,1150"/>
+               </Shape>
+               <TextLine ID="tl_114"
+                         BASELINE="1149"
+                         HEIGHT="31"
+                         WIDTH="117"
+                         VPOS="1118"
+                         HPOS="5707">
+                  <String ID="string_tl_114"
+                          HEIGHT="31"
+                          WIDTH="117"
+                          VPOS="1118"
+                          HPOS="5707"
+                          CONTENT="Burgerlijke Staat"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_76_4" HEIGHT="34" WIDTH="191" VPOS="1176" HPOS="5707">
+               <Shape>
+                  <Polygon POINTS="5707,1176 5898,1176 5898,1210 5707,1210"/>
+               </Shape>
+               <TextLine ID="tl_115"
+                         BASELINE="1209"
+                         HEIGHT="32"
+                         WIDTH="189"
+                         VPOS="1177"
+                         HPOS="5708">
+                  <String ID="string_tl_115"
+                          HEIGHT="32"
+                          WIDTH="189"
+                          VPOS="1177"
+                          HPOS="5708"
+                          CONTENT="Godsdienstige gezindte"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_76_5" HEIGHT="44" WIDTH="267" VPOS="1233" HPOS="5708">
+               <Shape>
+                  <Polygon POINTS="5708,1233 5975,1233 5975,1277 5708,1277"/>
+               </Shape>
+               <TextLine ID="tl_116"
+                         BASELINE="1276"
+                         HEIGHT="42"
+                         WIDTH="265"
+                         VPOS="1234"
+                         HPOS="5709">
+                  <String ID="string_tl_116"
+                          HEIGHT="42"
+                          WIDTH="265"
+                          VPOS="1234"
+                          HPOS="5709"
+                          CONTENT="Lager onderwijs genoten"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_76_6" HEIGHT="48" WIDTH="372" VPOS="1288" HPOS="5709">
+               <Shape>
+                  <Polygon POINTS="5709,1288 6081,1288 6081,1336 5709,1336"/>
+               </Shape>
+               <TextLine ID="tl_117"
+                         BASELINE="1335"
+                         HEIGHT="46"
+                         WIDTH="370"
+                         VPOS="1289"
+                         HPOS="5710">
+                  <String ID="string_tl_117"
+                          HEIGHT="46"
+                          WIDTH="370"
+                          VPOS="1289"
+                          HPOS="5710"
+                          CONTENT="Ouderdom (bij opneming)"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_76_7" HEIGHT="49" WIDTH="400" VPOS="1347" HPOS="5708">
+               <Shape>
+                  <Polygon POINTS="5708,1347 6108,1347 6108,1396 5708,1396"/>
+               </Shape>
+               <TextLine ID="tl_118"
+                         BASELINE="1395"
+                         HEIGHT="47"
+                         WIDTH="398"
+                         VPOS="1348"
+                         HPOS="5709">
+                  <String ID="string_tl_118"
+                          HEIGHT="47"
+                          WIDTH="398"
+                          VPOS="1348"
+                          HPOS="5709"
+                          CONTENT="Gedrag in het gesticht"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_76_8" HEIGHT="52" WIDTH="422" VPOS="1405" HPOS="5709">
+               <Shape>
+                  <Polygon POINTS="5709,1405 6131,1405 6131,1457 5709,1457"/>
+               </Shape>
+               <TextLine ID="tl_119"
+                         BASELINE="1456"
+                         HEIGHT="50"
+                         WIDTH="420"
+                         VPOS="1406"
+                         HPOS="5710">
+                  <String ID="string_tl_119"
+                          HEIGHT="50"
+                          WIDTH="420"
+                          VPOS="1406"
+                          HPOS="5710"
+                          CONTENT="Gepensioneerd . £ „ .. , ."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_77_1" HEIGHT="50" WIDTH="368" VPOS="1465" HPOS="5710">
+               <Shape>
+                  <Polygon POINTS="5710,1465 6078,1465 6078,1515 5710,1515"/>
+               </Shape>
+               <TextLine ID="tl_120"
+                         BASELINE="1514"
+                         HEIGHT="48"
+                         WIDTH="366"
+                         VPOS="1466"
+                         HPOS="5711">
+                  <String ID="string_tl_120"
+                          HEIGHT="48"
+                          WIDTH="366"
+                          VPOS="1466"
+                          HPOS="5711"
+                          CONTENT="Gegageerd-‘enlaste van het| Handteekening"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_77_2" HEIGHT="65" WIDTH="752" VPOS="1505" HPOS="5710">
+               <Shape>
+                  <Polygon POINTS="5710,1505 6462,1505 6462,1570 5710,1570"/>
+               </Shape>
+               <TextLine ID="tl_121"
+                         BASELINE="1569"
+                         HEIGHT="63"
+                         WIDTH="750"
+                         VPOS="1506"
+                         HPOS="5711">
+                  <String ID="string_tl_121"
+                          HEIGHT="63"
+                          WIDTH="750"
+                          VPOS="1506"
+                          HPOS="5711"
+                          CONTENT="Depart. van"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_77_3" HEIGHT="84" WIDTH="792" VPOS="1533" HPOS="5711">
+               <Shape>
+                  <Polygon POINTS="5711,1533 6503,1533 6503,1617 5711,1617"/>
+               </Shape>
+               <TextLine ID="tl_122"
+                         BASELINE="1616"
+                         HEIGHT="82"
+                         WIDTH="790"
+                         VPOS="1534"
+                         HPOS="5712">
+                  <String ID="string_tl_122"
+                          HEIGHT="82"
+                          WIDTH="790"
+                          VPOS="1534"
+                          HPOS="5712"
+                          CONTENT="met ƒ"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_78_1" HEIGHT="40" WIDTH="177" VPOS="1634" HPOS="5714">
+               <Shape>
+                  <Polygon POINTS="5714,1634 5891,1634 5891,1674 5714,1674"/>
+               </Shape>
+               <TextLine ID="tl_123"
+                         BASELINE="1673"
+                         HEIGHT="38"
+                         WIDTH="175"
+                         VPOS="1635"
+                         HPOS="5715">
+                  <String ID="string_tl_123"
+                          HEIGHT="38"
+                          WIDTH="175"
+                          VPOS="1635"
+                          HPOS="5715"
+                          CONTENT="SIGNALEMENT."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_79_1" HEIGHT="39" WIDTH="84" VPOS="1631" HPOS="6075">
+               <Shape>
+                  <Polygon POINTS="6075,1631 6159,1631 6159,1670 6075,1670"/>
+               </Shape>
+               <TextLine ID="tl_124"
+                         BASELINE="1669"
+                         HEIGHT="37"
+                         WIDTH="82"
+                         VPOS="1632"
+                         HPOS="6076">
+                  <String ID="string_tl_124"
+                          HEIGHT="37"
+                          WIDTH="82"
+                          VPOS="1632"
+                          HPOS="6076"
+                          CONTENT="aanmerkingen."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_80_1" HEIGHT="40" WIDTH="265" VPOS="638" HPOS="6307">
+               <Shape>
+                  <Polygon POINTS="6307,638 6572,638 6572,678 6307,678"/>
+               </Shape>
+               <TextLine ID="tl_125"
+                         BASELINE="677"
+                         HEIGHT="38"
+                         WIDTH="263"
+                         VPOS="639"
+                         HPOS="6308">
+                  <String ID="string_tl_125"
+                          HEIGHT="38"
+                          WIDTH="263"
+                          VPOS="639"
+                          HPOS="6308"
+                          CONTENT="Lengte"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_81_1" HEIGHT="54" WIDTH="298" VPOS="628" HPOS="6705">
+               <Shape>
+                  <Polygon POINTS="6705,628 7003,628 7003,682 6705,682"/>
+               </Shape>
+               <TextLine ID="tl_126"
+                         BASELINE="681"
+                         HEIGHT="52"
+                         WIDTH="296"
+                         VPOS="629"
+                         HPOS="6706">
+                  <String ID="string_tl_126"
+                          HEIGHT="52"
+                          WIDTH="296"
+                          VPOS="629"
+                          HPOS="6706"
+                          CONTENT="Haar"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_1" HEIGHT="39" WIDTH="106" VPOS="1012" HPOS="6264">
+               <Shape>
+                  <Polygon POINTS="6264,1012 6370,1012 6370,1051 6264,1051"/>
+               </Shape>
+               <TextLine ID="tl_127"
+                         BASELINE="1050"
+                         HEIGHT="37"
+                         WIDTH="104"
+                         VPOS="1013"
+                         HPOS="6265">
+                  <String ID="string_tl_127"
+                          HEIGHT="37"
+                          WIDTH="104"
+                          VPOS="1013"
+                          HPOS="6265"
+                          CONTENT="Wenkbrauwen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_2" HEIGHT="33" WIDTH="75" VPOS="1048" HPOS="6265">
+               <Shape>
+                  <Polygon POINTS="6265,1048 6340,1048 6340,1081 6265,1081"/>
+               </Shape>
+               <TextLine ID="tl_128"
+                         BASELINE="1080"
+                         HEIGHT="31"
+                         WIDTH="73"
+                         VPOS="1049"
+                         HPOS="6266">
+                  <String ID="string_tl_128"
+                          HEIGHT="31"
+                          WIDTH="73"
+                          VPOS="1049"
+                          HPOS="6266"
+                          CONTENT="Voorhoofd"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_3" HEIGHT="34" WIDTH="226" VPOS="1084" HPOS="6265">
+               <Shape>
+                  <Polygon POINTS="6265,1084 6491,1084 6491,1118 6265,1118"/>
+               </Shape>
+               <TextLine ID="tl_129"
+                         BASELINE="1117"
+                         HEIGHT="32"
+                         WIDTH="224"
+                         VPOS="1085"
+                         HPOS="6266">
+                  <String ID="string_tl_129"
+                          HEIGHT="32"
+                          WIDTH="224"
+                          VPOS="1085"
+                          HPOS="6266"
+                          CONTENT="Oogen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_4" HEIGHT="33" WIDTH="165" VPOS="1122" HPOS="6265">
+               <Shape>
+                  <Polygon POINTS="6265,1122 6430,1122 6430,1155 6265,1155"/>
+               </Shape>
+               <TextLine ID="tl_130"
+                         BASELINE="1154"
+                         HEIGHT="31"
+                         WIDTH="163"
+                         VPOS="1123"
+                         HPOS="6266">
+                  <String ID="string_tl_130"
+                          HEIGHT="31"
+                          WIDTH="163"
+                          VPOS="1123"
+                          HPOS="6266"
+                          CONTENT="Neus"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_5" HEIGHT="40" WIDTH="103" VPOS="1159" HPOS="6266">
+               <Shape>
+                  <Polygon POINTS="6266,1159 6369,1159 6369,1199 6266,1199"/>
+               </Shape>
+               <TextLine ID="tl_131"
+                         BASELINE="1198"
+                         HEIGHT="38"
+                         WIDTH="101"
+                         VPOS="1160"
+                         HPOS="6267">
+                  <String ID="string_tl_131"
+                          HEIGHT="38"
+                          WIDTH="101"
+                          VPOS="1160"
+                          HPOS="6267"
+                          CONTENT="Mond"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_6" HEIGHT="32" WIDTH="79" VPOS="1198" HPOS="6266">
+               <Shape>
+                  <Polygon POINTS="6266,1198 6345,1198 6345,1230 6266,1230"/>
+               </Shape>
+               <TextLine ID="tl_132"
+                         BASELINE="1229"
+                         HEIGHT="30"
+                         WIDTH="77"
+                         VPOS="1199"
+                         HPOS="6267">
+                  <String ID="string_tl_132"
+                          HEIGHT="30"
+                          WIDTH="77"
+                          VPOS="1199"
+                          HPOS="6267"
+                          CONTENT="Kin"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_7" HEIGHT="31" WIDTH="91" VPOS="1235" HPOS="6265">
+               <Shape>
+                  <Polygon POINTS="6265,1235 6356,1235 6356,1266 6265,1266"/>
+               </Shape>
+               <TextLine ID="tl_133"
+                         BASELINE="1265"
+                         HEIGHT="29"
+                         WIDTH="89"
+                         VPOS="1236"
+                         HPOS="6266">
+                  <String ID="string_tl_133"
+                          HEIGHT="29"
+                          WIDTH="89"
+                          VPOS="1236"
+                          HPOS="6266"
+                          CONTENT="Baard"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_8" HEIGHT="31" WIDTH="56" VPOS="1272" HPOS="6267">
+               <Shape>
+                  <Polygon POINTS="6267,1272 6323,1272 6323,1303 6267,1303"/>
+               </Shape>
+               <TextLine ID="tl_134"
+                         BASELINE="1302"
+                         HEIGHT="29"
+                         WIDTH="54"
+                         VPOS="1273"
+                         HPOS="6268">
+                  <String ID="string_tl_134"
+                          HEIGHT="29"
+                          WIDTH="54"
+                          VPOS="1273"
+                          HPOS="6268"
+                          CONTENT="Aangezicht"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_9" HEIGHT="33" WIDTH="91" VPOS="1308" HPOS="6267">
+               <Shape>
+                  <Polygon POINTS="6267,1308 6358,1308 6358,1341 6267,1341"/>
+               </Shape>
+               <TextLine ID="tl_135"
+                         BASELINE="1340"
+                         HEIGHT="31"
+                         WIDTH="89"
+                         VPOS="1309"
+                         HPOS="6268">
+                  <String ID="string_tl_135"
+                          HEIGHT="31"
+                          WIDTH="89"
+                          VPOS="1309"
+                          HPOS="6268"
+                          CONTENT="Kleur"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_10"
+                       HEIGHT="41"
+                       WIDTH="173"
+                       VPOS="1344"
+                       HPOS="6266">
+               <Shape>
+                  <Polygon POINTS="6266,1344 6439,1344 6439,1385 6266,1385"/>
+               </Shape>
+               <TextLine ID="tl_136"
+                         BASELINE="1384"
+                         HEIGHT="39"
+                         WIDTH="171"
+                         VPOS="1345"
+                         HPOS="6267">
+                  <String ID="string_tl_136"
+                          HEIGHT="39"
+                          WIDTH="171"
+                          VPOS="1345"
+                          HPOS="6267"
+                          CONTENT="Gewone taal"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_11" HEIGHT="31" WIDTH="86" VPOS="1383" HPOS="6267">
+               <Shape>
+                  <Polygon POINTS="6267,1383 6353,1383 6353,1414 6267,1414"/>
+               </Shape>
+               <TextLine ID="tl_137"
+                         BASELINE="1413"
+                         HEIGHT="29"
+                         WIDTH="84"
+                         VPOS="1384"
+                         HPOS="6268">
+                  <String ID="string_tl_137"
+                          HEIGHT="29"
+                          WIDTH="84"
+                          VPOS="1384"
+                          HPOS="6268"
+                          CONTENT="Bijzondere teekenen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_82_12"
+                       HEIGHT="79"
+                       WIDTH="321"
+                       VPOS="1417"
+                       HPOS="6267">
+               <Shape>
+                  <Polygon POINTS="6267,1417 6588,1417 6588,1496 6267,1496"/>
+               </Shape>
+               <TextLine ID="tl_138"
+                         BASELINE="1451"
+                         HEIGHT="33"
+                         WIDTH="201"
+                         VPOS="1418"
+                         HPOS="6268">
+                  <String ID="string_tl_138"
+                          HEIGHT="33"
+                          WIDTH="201"
+                          VPOS="1418"
+                          HPOS="6268"
+                          CONTENT="-uz ,"/>
+               </TextLine>
+               <TextLine ID="tl_139"
+                         BASELINE="1495"
+                         HEIGHT="44"
+                         WIDTH="319"
+                         VPOS="1451"
+                         HPOS="6268">
+                  <String ID="string_tl_139"
+                          HEIGHT="44"
+                          WIDTH="319"
+                          VPOS="1451"
+                          HPOS="6268"
+                          CONTENT="■ i/"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_83_1" HEIGHT="56" WIDTH="436" VPOS="1611" HPOS="6321">
+               <Shape>
+                  <Polygon POINTS="6321,1611 6757,1611 6757,1667 6321,1667"/>
+               </Shape>
+               <TextLine ID="tl_140"
+                         BASELINE="1666"
+                         HEIGHT="54"
+                         WIDTH="434"
+                         VPOS="1612"
+                         HPOS="6322">
+                  <String ID="string_tl_140"
+                          HEIGHT="54"
+                          WIDTH="434"
+                          VPOS="1612"
+                          HPOS="6322"
+                          CONTENT="GERECHTSHOF TE AMSTERDAM."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_83_2" HEIGHT="42" WIDTH="176" VPOS="1653" HPOS="6323">
+               <Shape>
+                  <Polygon POINTS="6323,1653 6499,1653 6499,1695 6323,1695"/>
+               </Shape>
+               <TextLine ID="tl_141"
+                         BASELINE="1694"
+                         HEIGHT="40"
+                         WIDTH="174"
+                         VPOS="1654"
+                         HPOS="6324">
+                  <String ID="string_tl_141"
+                          HEIGHT="40"
+                          WIDTH="174"
+                          VPOS="1654"
+                          HPOS="6324"
+                          CONTENT="Verzoeke beleefd bericht bij verplaatsing of invrij¬"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_84_1" HEIGHT="56" WIDTH="947" VPOS="2140" HPOS="3987">
+               <Shape>
+                  <Polygon POINTS="3987,2140 4934,2140 4934,2196 3987,2196"/>
+               </Shape>
+               <TextLine ID="tl_142"
+                         BASELINE="2195"
+                         HEIGHT="54"
+                         WIDTH="945"
+                         VPOS="2141"
+                         HPOS="3988">
+                  <String ID="string_tl_142"
+                          HEIGHT="54"
+                          WIDTH="945"
+                          VPOS="2141"
+                          HPOS="3988"
+                          CONTENT="heidstelling van de/ gedetineerden •"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_86_1"
+                       HEIGHT="148"
+                       WIDTH="1174"
+                       VPOS="2258"
+                       HPOS="3882">
+               <Shape>
+                  <Polygon POINTS="3882,2258 5056,2258 5056,2406 3882,2406"/>
+               </Shape>
+               <TextLine ID="tl_143"
+                         BASELINE="2329"
+                         HEIGHT="70"
+                         WIDTH="1066"
+                         VPOS="2259"
+                         HPOS="3971">
+                  <String ID="string_tl_143"
+                          HEIGHT="70"
+                          WIDTH="1066"
+                          VPOS="2259"
+                          HPOS="3971"
+                          CONTENT="rJ"/>
+               </TextLine>
+               <TextLine ID="tl_144"
+                         BASELINE="2405"
+                         HEIGHT="84"
+                         WIDTH="1172"
+                         VPOS="2321"
+                         HPOS="3883">
+                  <String ID="string_tl_144"
+                          HEIGHT="84"
+                          WIDTH="1172"
+                          VPOS="2321"
+                          HPOS="3883"
+                          CONTENT="ten einde tijdig den Raadsman kennis 4e kunnen geven."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_86_2" HEIGHT="43" WIDTH="42" VPOS="2388" HPOS="4785">
+               <Shape>
+                  <Polygon POINTS="4785,2388 4827,2388 4827,2431 4785,2431"/>
+               </Shape>
+               <TextLine ID="tl_145"
+                         BASELINE="2430"
+                         HEIGHT="41"
+                         WIDTH="40"
+                         VPOS="2389"
+                         HPOS="4786">
+                  <String ID="string_tl_145"
+                          HEIGHT="41"
+                          WIDTH="40"
+                          VPOS="2389"
+                          HPOS="4786"
+                          CONTENT="AMSTERDAM, den 19"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_87_1"
+                       HEIGHT="76"
+                       WIDTH="1156"
+                       VPOS="2458"
+                       HPOS="3884">
+               <Shape>
+                  <Polygon POINTS="3884,2458 5040,2458 5040,2534 3884,2534"/>
+               </Shape>
+               <TextLine ID="tl_146"
+                         BASELINE="2533"
+                         HEIGHT="74"
+                         WIDTH="1154"
+                         VPOS="2459"
+                         HPOS="3885">
+                  <String ID="string_tl_146"
+                          HEIGHT="74"
+                          WIDTH="1154"
+                          VPOS="2459"
+                          HPOS="3885"
+                          CONTENT="DE^ORIFFIER-OER-KAMER^"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_87_2" HEIGHT="65" WIDTH="817" VPOS="2589" HPOS="3885">
+               <Shape>
+                  <Polygon POINTS="3885,2589 4702,2589 4702,2654 3885,2654"/>
+               </Shape>
+               <TextLine ID="tl_147"
+                         BASELINE="2653"
+                         HEIGHT="63"
+                         WIDTH="815"
+                         VPOS="2590"
+                         HPOS="3886">
+                  <String ID="string_tl_147"
+                          HEIGHT="63"
+                          WIDTH="815"
+                          VPOS="2590"
+                          HPOS="3886"
+                          CONTENT="De PROCUREUR-GENERAAL bij het Gerechtshof^^ws/dam"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_87_3" HEIGHT="50" WIDTH="530" VPOS="2691" HPOS="4532">
+               <Shape>
+                  <Polygon POINTS="4532,2691 5062,2691 5062,2741 4532,2741"/>
+               </Shape>
+               <TextLine ID="tl_148"
+                         BASELINE="2740"
+                         HEIGHT="48"
+                         WIDTH="528"
+                         VPOS="2692"
+                         HPOS="4533">
+                  <String ID="string_tl_148"
+                          HEIGHT="48"
+                          WIDTH="528"
+                          VPOS="2692"
+                          HPOS="4533"
+                          CONTENT="Gelast den Directeur van het Huis van Bewaring in t^mtneSL^êkJ^"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_88_1"
+                       HEIGHT="189"
+                       WIDTH="1409"
+                       VPOS="1818"
+                       HPOS="5691">
+               <Shape>
+                  <Polygon POINTS="5691,1818 7100,1818 7100,2007 5691,2007"/>
+               </Shape>
+               <TextLine ID="tl_149"
+                         BASELINE="1950"
+                         HEIGHT="131"
+                         WIDTH="1250"
+                         VPOS="1819"
+                         HPOS="5692">
+                  <String ID="string_tl_149"
+                          HEIGHT="131"
+                          WIDTH="1250"
+                          VPOS="1819"
+                          HPOS="5692"
+                          CONTENT="rr'"/>
+               </TextLine>
+               <TextLine ID="tl_150"
+                         BASELINE="2006"
+                         HEIGHT="125"
+                         WIDTH="1403"
+                         VPOS="1881"
+                         HPOS="5696">
+                  <String ID="string_tl_150"
+                          HEIGHT="125"
+                          WIDTH="1403"
+                          VPOS="1881"
+                          HPOS="5696"
+                          CONTENT="£ %y **"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_88_2" HEIGHT="83" WIDTH="117" VPOS="1923" HPOS="6997">
+               <Shape>
+                  <Polygon POINTS="6997,1923 7114,1923 7114,2006 6997,2006"/>
+               </Shape>
+               <TextLine ID="tl_151"
+                         BASELINE="2005"
+                         HEIGHT="81"
+                         WIDTH="115"
+                         VPOS="1924"
+                         HPOS="6998">
+                  <String ID="string_tl_151"
+                          HEIGHT="81"
+                          WIDTH="115"
+                          VPOS="1924"
+                          HPOS="6998"
+                          CONTENT="op heden door het Hof Veroordeeld toireene gevangenisstraf van-"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_88_3" HEIGHT="89" WIDTH="407" VPOS="2043" HPOS="6101">
+               <Shape>
+                  <Polygon POINTS="6101,2043 6508,2043 6508,2132 6101,2132"/>
+               </Shape>
+               <TextLine ID="tl_152"
+                         BASELINE="2131"
+                         HEIGHT="87"
+                         WIDTH="405"
+                         VPOS="2044"
+                         HPOS="6102">
+                  <String ID="string_tl_152"
+                          HEIGHT="87"
+                          WIDTH="405"
+                          VPOS="2044"
+                          HPOS="6102"
+                          CONTENT="frr, rnlrr mn ~"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_88_4"
+                       HEIGHT="79"
+                       WIDTH="1081"
+                       VPOS="2292"
+                       HPOS="5559">
+               <Shape>
+                  <Polygon POINTS="5559,2292 6640,2292 6640,2371 5559,2371"/>
+               </Shape>
+               <TextLine ID="tl_153"
+                         BASELINE="2370"
+                         HEIGHT="77"
+                         WIDTH="1079"
+                         VPOS="2293"
+                         HPOS="5560">
+                  <String ID="string_tl_153"
+                          HEIGHT="77"
+                          WIDTH="1079"
+                          VPOS="2293"
+                          HPOS="5560"
+                          CONTENT="^ SL"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_89_1" HEIGHT="48" WIDTH="278" VPOS="2555" HPOS="5567">
+               <Shape>
+                  <Polygon POINTS="5567,2555 5845,2555 5845,2603 5567,2603"/>
+               </Shape>
+               <TextLine ID="tl_154"
+                         BASELINE="2602"
+                         HEIGHT="46"
+                         WIDTH="276"
+                         VPOS="2556"
+                         HPOS="5568">
+                  <String ID="string_tl_154"
+                          HEIGHT="46"
+                          WIDTH="276"
+                          VPOS="2556"
+                          HPOS="5568"
+                          CONTENT="'IM&amp;Zc&amp;hAs"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_97_1" HEIGHT="92" WIDTH="159" VPOS="4596" HPOS="3502">
+               <Shape>
+                  <Polygon POINTS="3502,4596 3661,4596 3661,4688 3502,4688"/>
+               </Shape>
+               <TextLine ID="tl_155"
+                         BASELINE="4687"
+                         HEIGHT="90"
+                         WIDTH="157"
+                         VPOS="4597"
+                         HPOS="3503">
+                  <String ID="string_tl_155"
+                          HEIGHT="90"
+                          WIDTH="157"
+                          VPOS="4597"
+                          HPOS="3503"
+                          CONTENT="£"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_98_1" HEIGHT="65" WIDTH="207" VPOS="4966" HPOS="3556">
+               <Shape>
+                  <Polygon POINTS="3556,4966 3763,4966 3763,5031 3556,5031"/>
+               </Shape>
+               <TextLine ID="tl_156"
+                         BASELINE="5030"
+                         HEIGHT="63"
+                         WIDTH="205"
+                         VPOS="4967"
+                         HPOS="3557">
+                  <String ID="string_tl_156"
+                          HEIGHT="63"
+                          WIDTH="205"
+                          VPOS="4967"
+                          HPOS="3557"
+                          CONTENT="Zy"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_99_1" HEIGHT="92" WIDTH="105" VPOS="3256" HPOS="3881">
+               <Shape>
+                  <Polygon POINTS="3881,3256 3986,3256 3986,3348 3881,3348"/>
+               </Shape>
+               <TextLine ID="tl_157"
+                         BASELINE="3347"
+                         HEIGHT="90"
+                         WIDTH="103"
+                         VPOS="3257"
+                         HPOS="3882">
+                  <String ID="string_tl_157"
+                          HEIGHT="90"
+                          WIDTH="103"
+                          VPOS="3257"
+                          HPOS="3882"
+                          CONTENT="'Al"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_100_1"
+                       HEIGHT="99"
+                       WIDTH="148"
+                       VPOS="3544"
+                       HPOS="3860">
+               <Shape>
+                  <Polygon POINTS="3860,3544 4008,3544 4008,3643 3860,3643"/>
+               </Shape>
+               <TextLine ID="tl_158"
+                         BASELINE="3642"
+                         HEIGHT="97"
+                         WIDTH="146"
+                         VPOS="3545"
+                         HPOS="3861">
+                  <String ID="string_tl_158"
+                          HEIGHT="97"
+                          WIDTH="146"
+                          VPOS="3545"
+                          HPOS="3861"
+                          CONTENT="u"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_101_1" HEIGHT="55" WIDTH="80" VPOS="4688" HPOS="3751">
+               <Shape>
+                  <Polygon POINTS="3751,4688 3831,4688 3831,4743 3751,4743"/>
+               </Shape>
+               <TextLine ID="tl_159"
+                         BASELINE="4742"
+                         HEIGHT="53"
+                         WIDTH="78"
+                         VPOS="4689"
+                         HPOS="3752">
+                  <String ID="string_tl_159"
+                          HEIGHT="53"
+                          WIDTH="78"
+                          VPOS="4689"
+                          HPOS="3752"
+                          CONTENT="y"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_102_1" HEIGHT="77" WIDTH="80" VPOS="4633" HPOS="3894">
+               <Shape>
+                  <Polygon POINTS="3894,4633 3974,4633 3974,4710 3894,4710"/>
+               </Shape>
+               <TextLine ID="tl_160"
+                         BASELINE="4709"
+                         HEIGHT="75"
+                         WIDTH="78"
+                         VPOS="4634"
+                         HPOS="3895">
+                  <String ID="string_tl_160"
+                          HEIGHT="75"
+                          WIDTH="78"
+                          VPOS="4634"
+                          HPOS="3895"
+                          CONTENT="Amsterdam, den \QSf."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_103_1" HEIGHT="76" WIDTH="69" VPOS="4869" HPOS="3849">
+               <Shape>
+                  <Polygon POINTS="3849,4869 3918,4869 3918,4945 3849,4945"/>
+               </Shape>
+               <TextLine ID="tl_161"
+                         BASELINE="4944"
+                         HEIGHT="74"
+                         WIDTH="67"
+                         VPOS="4870"
+                         HPOS="3850">
+                  <String ID="string_tl_161"
+                          HEIGHT="74"
+                          WIDTH="67"
+                          VPOS="4870"
+                          HPOS="3850"
+                          CONTENT="De Procureur-GTent"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_110_1"
+                       HEIGHT="81"
+                       WIDTH="848"
+                       VPOS="2856"
+                       HPOS="6139">
+               <Shape>
+                  <Polygon POINTS="6139,2856 6987,2856 6987,2937 6139,2937"/>
+               </Shape>
+               <TextLine ID="tl_162"
+                         BASELINE="2936"
+                         HEIGHT="79"
+                         WIDTH="846"
+                         VPOS="2857"
+                         HPOS="6140">
+                  <String ID="string_tl_162"
+                          HEIGHT="79"
+                          WIDTH="846"
+                          VPOS="2857"
+                          HPOS="6140"
+                          CONTENT="WUTiloemd,"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_110_2"
+                       HEIGHT="41"
+                       WIDTH="299"
+                       VPOS="2981"
+                       HPOS="6317">
+               <Shape>
+                  <Polygon POINTS="6317,2981 6616,2981 6616,3022 6317,3022"/>
+               </Shape>
+               <TextLine ID="tl_163"
+                         BASELINE="3021"
+                         HEIGHT="39"
+                         WIDTH="297"
+                         VPOS="2982"
+                         HPOS="6318">
+                  <String ID="string_tl_163"
+                          HEIGHT="39"
+                          WIDTH="297"
+                          VPOS="2982"
+                          HPOS="6318"
+                          CONTENT="?l//&gt; sy"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_111_1"
+                       HEIGHT="44"
+                       WIDTH="172"
+                       VPOS="2974"
+                       HPOS="6708">
+               <Shape>
+                  <Polygon POINTS="6708,2974 6880,2974 6880,3018 6708,3018"/>
+               </Shape>
+               <TextLine ID="tl_164"
+                         BASELINE="3017"
+                         HEIGHT="42"
+                         WIDTH="170"
+                         VPOS="2975"
+                         HPOS="6709">
+                  <String ID="string_tl_164"
+                          HEIGHT="42"
+                          WIDTH="170"
+                          VPOS="2975"
+                          HPOS="6709"
+                          CONTENT="£6"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_113_1"
+                       HEIGHT="91"
+                       WIDTH="428"
+                       VPOS="4018"
+                       HPOS="5176">
+               <Shape>
+                  <Polygon POINTS="5176,4018 5604,4018 5604,4109 5176,4109"/>
+               </Shape>
+               <TextLine ID="tl_165"
+                         BASELINE="4108"
+                         HEIGHT="89"
+                         WIDTH="426"
+                         VPOS="4019"
+                         HPOS="5177">
+                  <String ID="string_tl_165"
+                          HEIGHT="89"
+                          WIDTH="426"
+                          VPOS="4019"
+                          HPOS="5177"
+                          CONTENT="Model 87. S.G.S. 2713."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_116_1" HEIGHT="48" WIDTH="85" VPOS="4286" HPOS="4975">
+               <Shape>
+                  <Polygon POINTS="4975,4286 5060,4286 5060,4334 4975,4334"/>
+               </Shape>
+               <TextLine ID="tl_166"
+                         BASELINE="4333"
+                         HEIGHT="46"
+                         WIDTH="83"
+                         VPOS="4287"
+                         HPOS="4976">
+                  <String ID="string_tl_166"
+                          HEIGHT="46"
+                          WIDTH="83"
+                          VPOS="4287"
+                          HPOS="4976"
+                          CONTENT="Nationaliteit"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_117_1"
+                       HEIGHT="41"
+                       WIDTH="246"
+                       VPOS="3265"
+                       HPOS="5414">
+               <Shape>
+                  <Polygon POINTS="5414,3265 5660,3265 5660,3306 5414,3306"/>
+               </Shape>
+               <TextLine ID="tl_167"
+                         BASELINE="3305"
+                         HEIGHT="39"
+                         WIDTH="244"
+                         VPOS="3266"
+                         HPOS="5415">
+                  <String ID="string_tl_167"
+                          HEIGHT="39"
+                          WIDTH="244"
+                          VPOS="3266"
+                          HPOS="5415"
+                          CONTENT="Burgerlijke Staat"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_118_1"
+                       HEIGHT="336"
+                       WIDTH="428"
+                       VPOS="3321"
+                       HPOS="5727">
+               <Shape>
+                  <Polygon POINTS="5727,3321 6155,3321 6155,3657 5727,3657"/>
+               </Shape>
+               <TextLine ID="tl_168"
+                         BASELINE="3352"
+                         HEIGHT="30"
+                         WIDTH="192"
+                         VPOS="3322"
+                         HPOS="5728">
+                  <String ID="string_tl_168"
+                          HEIGHT="30"
+                          WIDTH="192"
+                          VPOS="3322"
+                          HPOS="5728"
+                          CONTENT="Godsdienstige gezindte"/>
+               </TextLine>
+               <TextLine ID="tl_169"
+                         BASELINE="3418"
+                         HEIGHT="40"
+                         WIDTH="265"
+                         VPOS="3378"
+                         HPOS="5731">
+                  <String ID="string_tl_169"
+                          HEIGHT="40"
+                          WIDTH="265"
+                          VPOS="3378"
+                          HPOS="5731"
+                          CONTENT="Lager onderwijs genoten"/>
+               </TextLine>
+               <TextLine ID="tl_170"
+                         BASELINE="3478"
+                         HEIGHT="43"
+                         WIDTH="372"
+                         VPOS="3435"
+                         HPOS="5731">
+                  <String ID="string_tl_170"
+                          HEIGHT="43"
+                          WIDTH="372"
+                          VPOS="3435"
+                          HPOS="5731"
+                          CONTENT="Ouderdom (bij opneming)"/>
+               </TextLine>
+               <TextLine ID="tl_171"
+                         BASELINE="3538"
+                         HEIGHT="44"
+                         WIDTH="399"
+                         VPOS="3494"
+                         HPOS="5731">
+                  <String ID="string_tl_171"
+                          HEIGHT="44"
+                          WIDTH="399"
+                          VPOS="3494"
+                          HPOS="5731"
+                          CONTENT="Gedrag in het gesticht"/>
+               </TextLine>
+               <TextLine ID="tl_172"
+                         BASELINE="3599"
+                         HEIGHT="48"
+                         WIDTH="421"
+                         VPOS="3551"
+                         HPOS="5733">
+                  <String ID="string_tl_172"
+                          HEIGHT="48"
+                          WIDTH="421"
+                          VPOS="3551"
+                          HPOS="5733"
+                          CONTENT="Gepensioneerd"/>
+               </TextLine>
+               <TextLine ID="tl_173"
+                         BASELINE="3656"
+                         HEIGHT="44"
+                         WIDTH="371"
+                         VPOS="3612"
+                         HPOS="5733">
+                  <String ID="string_tl_173"
+                          HEIGHT="44"
+                          WIDTH="371"
+                          VPOS="3612"
+                          HPOS="5733"
+                          CONTENT="Gegageerd"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_118_2"
+                       HEIGHT="86"
+                       WIDTH="236"
+                       VPOS="3673"
+                       HPOS="5732">
+               <Shape>
+                  <Polygon POINTS="5732,3673 5968,3673 5968,3759 5732,3759"/>
+               </Shape>
+               <TextLine ID="tl_174"
+                         BASELINE="3713"
+                         HEIGHT="39"
+                         WIDTH="234"
+                         VPOS="3674"
+                         HPOS="5733">
+                  <String ID="string_tl_174"
+                          HEIGHT="39"
+                          WIDTH="234"
+                          VPOS="3674"
+                          HPOS="5733"
+                          CONTENT="Depart. van met ƒ"/>
+               </TextLine>
+               <TextLine ID="tl_175"
+                         BASELINE="3758"
+                         HEIGHT="37"
+                         WIDTH="166"
+                         VPOS="3721"
+                         HPOS="5733">
+                  <String ID="string_tl_175"
+                          HEIGHT="37"
+                          WIDTH="166"
+                          VPOS="3721"
+                          HPOS="5733"
+                          CONTENT="tient #"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_118_3"
+                       HEIGHT="49"
+                       WIDTH="454"
+                       VPOS="3771"
+                       HPOS="5733">
+               <Shape>
+                  <Polygon POINTS="5733,3771 6187,3771 6187,3820 5733,3820"/>
+               </Shape>
+               <TextLine ID="tl_176"
+                         BASELINE="3819"
+                         HEIGHT="47"
+                         WIDTH="452"
+                         VPOS="3772"
+                         HPOS="5734">
+                  <String ID="string_tl_176"
+                          HEIGHT="47"
+                          WIDTH="452"
+                          VPOS="3772"
+                          HPOS="5734"
+                          CONTENT="teimste van het"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_119_1"
+                       HEIGHT="111"
+                       WIDTH="258"
+                       VPOS="3619"
+                       HPOS="6009">
+               <Shape>
+                  <Polygon POINTS="6009,3619 6267,3619 6267,3730 6009,3730"/>
+               </Shape>
+               <TextLine ID="tl_177"
+                         BASELINE="3646"
+                         HEIGHT="26"
+                         WIDTH="113"
+                         VPOS="3620"
+                         HPOS="6036">
+                  <String ID="string_tl_177"
+                          HEIGHT="26"
+                          WIDTH="113"
+                          VPOS="3620"
+                          HPOS="6036"
+                          CONTENT="Oogen"/>
+               </TextLine>
+               <TextLine ID="tl_178"
+                         BASELINE="3729"
+                         HEIGHT="36"
+                         WIDTH="256"
+                         VPOS="3693"
+                         HPOS="6010">
+                  <String ID="string_tl_178"
+                          HEIGHT="36"
+                          WIDTH="256"
+                          VPOS="3693"
+                          HPOS="6010"
+                          CONTENT="Neus"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_120_1"
+                       HEIGHT="41"
+                       WIDTH="104"
+                       VPOS="3303"
+                       HPOS="6287">
+               <Shape>
+                  <Polygon POINTS="6287,3303 6391,3303 6391,3344 6287,3344"/>
+               </Shape>
+               <TextLine ID="tl_179"
+                         BASELINE="3343"
+                         HEIGHT="39"
+                         WIDTH="102"
+                         VPOS="3304"
+                         HPOS="6288">
+                  <String ID="string_tl_179"
+                          HEIGHT="39"
+                          WIDTH="102"
+                          VPOS="3304"
+                          HPOS="6288"
+                          CONTENT="Mond"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_120_2" HEIGHT="32" WIDTH="79" VPOS="3341" HPOS="6289">
+               <Shape>
+                  <Polygon POINTS="6289,3341 6368,3341 6368,3373 6289,3373"/>
+               </Shape>
+               <TextLine ID="tl_180"
+                         BASELINE="3372"
+                         HEIGHT="30"
+                         WIDTH="77"
+                         VPOS="3342"
+                         HPOS="6290">
+                  <String ID="string_tl_180"
+                          HEIGHT="30"
+                          WIDTH="77"
+                          VPOS="3342"
+                          HPOS="6290"
+                          CONTENT="Kin"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_120_3" HEIGHT="30" WIDTH="91" VPOS="3379" HPOS="6289">
+               <Shape>
+                  <Polygon POINTS="6289,3379 6380,3379 6380,3409 6289,3409"/>
+               </Shape>
+               <TextLine ID="tl_181"
+                         BASELINE="3408"
+                         HEIGHT="28"
+                         WIDTH="89"
+                         VPOS="3380"
+                         HPOS="6290">
+                  <String ID="string_tl_181"
+                          HEIGHT="28"
+                          WIDTH="89"
+                          VPOS="3380"
+                          HPOS="6290"
+                          CONTENT="Baard"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_120_4" HEIGHT="30" WIDTH="54" VPOS="3416" HPOS="6290">
+               <Shape>
+                  <Polygon POINTS="6290,3416 6344,3416 6344,3446 6290,3446"/>
+               </Shape>
+               <TextLine ID="tl_182"
+                         BASELINE="3445"
+                         HEIGHT="28"
+                         WIDTH="52"
+                         VPOS="3417"
+                         HPOS="6291">
+                  <String ID="string_tl_182"
+                          HEIGHT="28"
+                          WIDTH="52"
+                          VPOS="3417"
+                          HPOS="6291"
+                          CONTENT="Aangezicht"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_120_5" HEIGHT="31" WIDTH="91" VPOS="3452" HPOS="6290">
+               <Shape>
+                  <Polygon POINTS="6290,3452 6381,3452 6381,3483 6290,3483"/>
+               </Shape>
+               <TextLine ID="tl_183"
+                         BASELINE="3482"
+                         HEIGHT="29"
+                         WIDTH="89"
+                         VPOS="3453"
+                         HPOS="6291">
+                  <String ID="string_tl_183"
+                          HEIGHT="29"
+                          WIDTH="89"
+                          VPOS="3453"
+                          HPOS="6291"
+                          CONTENT="Kleur"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_120_6"
+                       HEIGHT="40"
+                       WIDTH="174"
+                       VPOS="3487"
+                       HPOS="6289">
+               <Shape>
+                  <Polygon POINTS="6289,3487 6463,3487 6463,3527 6289,3527"/>
+               </Shape>
+               <TextLine ID="tl_184"
+                         BASELINE="3526"
+                         HEIGHT="38"
+                         WIDTH="172"
+                         VPOS="3488"
+                         HPOS="6290">
+                  <String ID="string_tl_184"
+                          HEIGHT="38"
+                          WIDTH="172"
+                          VPOS="3488"
+                          HPOS="6290"
+                          CONTENT="Gewone taal"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_120_7" HEIGHT="31" WIDTH="86" VPOS="3526" HPOS="6292">
+               <Shape>
+                  <Polygon POINTS="6292,3526 6378,3526 6378,3557 6292,3557"/>
+               </Shape>
+               <TextLine ID="tl_185"
+                         BASELINE="3556"
+                         HEIGHT="29"
+                         WIDTH="84"
+                         VPOS="3527"
+                         HPOS="6293">
+                  <String ID="string_tl_185"
+                          HEIGHT="29"
+                          WIDTH="84"
+                          VPOS="3527"
+                          HPOS="6293"
+                          CONTENT="Bijzondere teekenen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_120_8"
+                       HEIGHT="78"
+                       WIDTH="321"
+                       VPOS="3560"
+                       HPOS="6291">
+               <Shape>
+                  <Polygon POINTS="6291,3560 6612,3560 6612,3638 6291,3638"/>
+               </Shape>
+               <TextLine ID="tl_186"
+                         BASELINE="3593"
+                         HEIGHT="32"
+                         WIDTH="201"
+                         VPOS="3561"
+                         HPOS="6292">
+                  <String ID="string_tl_186"
+                          HEIGHT="32"
+                          WIDTH="201"
+                          VPOS="3561"
+                          HPOS="6292"
+                          CONTENT="/"/>
+               </TextLine>
+               <TextLine ID="tl_187"
+                         BASELINE="3637"
+                         HEIGHT="43"
+                         WIDTH="317"
+                         VPOS="3594"
+                         HPOS="6294">
+                  <String ID="string_tl_187"
+                          HEIGHT="43"
+                          WIDTH="317"
+                          VPOS="3594"
+                          HPOS="6294"
+                          CONTENT="Geslacht e."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_123_1" HEIGHT="31" WIDTH="27" VPOS="4249" HPOS="5326">
+               <Shape>
+                  <Polygon POINTS="5326,4249 5353,4249 5353,4280 5326,4280"/>
+               </Shape>
+               <TextLine ID="tl_188"
+                         BASELINE="4279"
+                         HEIGHT="29"
+                         WIDTH="25"
+                         VPOS="4250"
+                         HPOS="5327">
+                  <String ID="string_tl_188"
+                          HEIGHT="29"
+                          WIDTH="25"
+                          VPOS="4250"
+                          HPOS="5327"
+                          CONTENT="Vader"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_1"
+                       HEIGHT="32"
+                       WIDTH="187"
+                       VPOS="3856"
+                       HPOS="5734">
+               <Shape>
+                  <Polygon POINTS="5734,3856 5921,3856 5921,3888 5734,3888"/>
+               </Shape>
+               <TextLine ID="tl_189"
+                         BASELINE="3887"
+                         HEIGHT="30"
+                         WIDTH="185"
+                         VPOS="3857"
+                         HPOS="5735">
+                  <String ID="string_tl_189"
+                          HEIGHT="30"
+                          WIDTH="185"
+                          VPOS="3857"
+                          HPOS="5735"
+                          CONTENT="Moeder"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_2" HEIGHT="31" WIDTH="94" VPOS="3916" HPOS="5734">
+               <Shape>
+                  <Polygon POINTS="5734,3916 5828,3916 5828,3947 5734,3947"/>
+               </Shape>
+               <TextLine ID="tl_190"
+                         BASELINE="3946"
+                         HEIGHT="29"
+                         WIDTH="92"
+                         VPOS="3917"
+                         HPOS="5735">
+                  <String ID="string_tl_190"
+                          HEIGHT="29"
+                          WIDTH="92"
+                          VPOS="3917"
+                          HPOS="5735"
+                          CONTENT="Nationaliteit"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_3"
+                       HEIGHT="29"
+                       WIDTH="120"
+                       VPOS="3977"
+                       HPOS="5736">
+               <Shape>
+                  <Polygon POINTS="5736,3977 5856,3977 5856,4006 5736,4006"/>
+               </Shape>
+               <TextLine ID="tl_191"
+                         BASELINE="4005"
+                         HEIGHT="27"
+                         WIDTH="118"
+                         VPOS="3978"
+                         HPOS="5737">
+                  <String ID="string_tl_191"
+                          HEIGHT="27"
+                          WIDTH="118"
+                          VPOS="3978"
+                          HPOS="5737"
+                          CONTENT="Burgerlijke Staat"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_4"
+                       HEIGHT="32"
+                       WIDTH="193"
+                       VPOS="4035"
+                       HPOS="5737">
+               <Shape>
+                  <Polygon POINTS="5737,4035 5930,4035 5930,4067 5737,4067"/>
+               </Shape>
+               <TextLine ID="tl_192"
+                         BASELINE="4066"
+                         HEIGHT="30"
+                         WIDTH="191"
+                         VPOS="4036"
+                         HPOS="5738">
+                  <String ID="string_tl_192"
+                          HEIGHT="30"
+                          WIDTH="191"
+                          VPOS="4036"
+                          HPOS="5738"
+                          CONTENT="Godsdienstige gezindte"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_5"
+                       HEIGHT="42"
+                       WIDTH="268"
+                       VPOS="4092"
+                       HPOS="5739">
+               <Shape>
+                  <Polygon POINTS="5739,4092 6007,4092 6007,4134 5739,4134"/>
+               </Shape>
+               <TextLine ID="tl_193"
+                         BASELINE="4133"
+                         HEIGHT="40"
+                         WIDTH="266"
+                         VPOS="4093"
+                         HPOS="5740">
+                  <String ID="string_tl_193"
+                          HEIGHT="40"
+                          WIDTH="266"
+                          VPOS="4093"
+                          HPOS="5740"
+                          CONTENT="Lager onderwijs genoten"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_6"
+                       HEIGHT="46"
+                       WIDTH="373"
+                       VPOS="4149"
+                       HPOS="5740">
+               <Shape>
+                  <Polygon POINTS="5740,4149 6113,4149 6113,4195 5740,4195"/>
+               </Shape>
+               <TextLine ID="tl_194"
+                         BASELINE="4194"
+                         HEIGHT="44"
+                         WIDTH="371"
+                         VPOS="4150"
+                         HPOS="5741">
+                  <String ID="string_tl_194"
+                          HEIGHT="44"
+                          WIDTH="371"
+                          VPOS="4150"
+                          HPOS="5741"
+                          CONTENT="Ouderdom (bij opneming) __"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_7"
+                       HEIGHT="44"
+                       WIDTH="397"
+                       VPOS="4209"
+                       HPOS="5740">
+               <Shape>
+                  <Polygon POINTS="5740,4209 6137,4209 6137,4253 5740,4253"/>
+               </Shape>
+               <TextLine ID="tl_195"
+                         BASELINE="4252"
+                         HEIGHT="42"
+                         WIDTH="395"
+                         VPOS="4210"
+                         HPOS="5741">
+                  <String ID="string_tl_195"
+                          HEIGHT="42"
+                          WIDTH="395"
+                          VPOS="4210"
+                          HPOS="5741"
+                          CONTENT="Gedrag in het gesticht^vc*ey"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_8"
+                       HEIGHT="51"
+                       WIDTH="471"
+                       VPOS="4264"
+                       HPOS="5740">
+               <Shape>
+                  <Polygon POINTS="5740,4264 6211,4264 6211,4315 5740,4315"/>
+               </Shape>
+               <TextLine ID="tl_196"
+                         BASELINE="4314"
+                         HEIGHT="49"
+                         WIDTH="469"
+                         VPOS="4265"
+                         HPOS="5741">
+                  <String ID="string_tl_196"
+                          HEIGHT="49"
+                          WIDTH="469"
+                          VPOS="4265"
+                          HPOS="5741"
+                          CONTENT="Gepensioneerd , £"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_9"
+                       HEIGHT="54"
+                       WIDTH="494"
+                       VPOS="4322"
+                       HPOS="5739">
+               <Shape>
+                  <Polygon POINTS="5739,4322 6233,4322 6233,4376 5739,4376"/>
+               </Shape>
+               <TextLine ID="tl_197"
+                         BASELINE="4375"
+                         HEIGHT="52"
+                         WIDTH="492"
+                         VPOS="4323"
+                         HPOS="5740">
+                  <String ID="string_tl_197"
+                          HEIGHT="52"
+                          WIDTH="492"
+                          VPOS="4323"
+                          HPOS="5740"
+                          CONTENT="Gëgaiëërd-tcflaste van h"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_10"
+                       HEIGHT="98"
+                       WIDTH="507"
+                       VPOS="4376"
+                       HPOS="5741">
+               <Shape>
+                  <Polygon POINTS="5741,4376 6248,4376 6248,4474 5741,4474"/>
+               </Shape>
+               <TextLine ID="tl_198"
+                         BASELINE="4426"
+                         HEIGHT="49"
+                         WIDTH="363"
+                         VPOS="4377"
+                         HPOS="5742">
+                  <String ID="string_tl_198"
+                          HEIGHT="49"
+                          WIDTH="363"
+                          VPOS="4377"
+                          HPOS="5742"
+                          CONTENT="Depart. van met ƒ"/>
+               </TextLine>
+               <TextLine ID="tl_199"
+                         BASELINE="4473"
+                         HEIGHT="72"
+                         WIDTH="504"
+                         VPOS="4401"
+                         HPOS="5743">
+                  <String ID="string_tl_199"
+                          HEIGHT="72"
+                          WIDTH="504"
+                          VPOS="4401"
+                          HPOS="5743"
+                          CONTENT="Geslacht"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_11"
+                       HEIGHT="48"
+                       WIDTH="452"
+                       VPOS="4486"
+                       HPOS="5742">
+               <Shape>
+                  <Polygon POINTS="5742,4486 6194,4486 6194,4534 5742,4534"/>
+               </Shape>
+               <TextLine ID="tl_200"
+                         BASELINE="4533"
+                         HEIGHT="46"
+                         WIDTH="450"
+                         VPOS="4487"
+                         HPOS="5743">
+                  <String ID="string_tl_200"
+                          HEIGHT="46"
+                          WIDTH="450"
+                          VPOS="4487"
+                          HPOS="5743"
+                          CONTENT="*4"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_12"
+                       HEIGHT="32"
+                       WIDTH="136"
+                       VPOS="4571"
+                       HPOS="5742">
+               <Shape>
+                  <Polygon POINTS="5742,4571 5878,4571 5878,4603 5742,4603"/>
+               </Shape>
+               <TextLine ID="tl_201"
+                         BASELINE="4602"
+                         HEIGHT="30"
+                         WIDTH="134"
+                         VPOS="4572"
+                         HPOS="5743">
+                  <String ID="string_tl_201"
+                          HEIGHT="30"
+                          WIDTH="134"
+                          VPOS="4572"
+                          HPOS="5743"
+                          CONTENT="Handteekening"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_125_13"
+                       HEIGHT="38"
+                       WIDTH="55"
+                       VPOS="4611"
+                       HPOS="5853">
+               <Shape>
+                  <Polygon POINTS="5853,4611 5908,4611 5908,4649 5853,4649"/>
+               </Shape>
+               <TextLine ID="tl_202"
+                         BASELINE="4648"
+                         HEIGHT="36"
+                         WIDTH="53"
+                         VPOS="4612"
+                         HPOS="5854">
+                  <String ID="string_tl_202"
+                          HEIGHT="36"
+                          WIDTH="53"
+                          VPOS="4612"
+                          HPOS="5854"
+                          CONTENT="Lengte"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_126_1"
+                       HEIGHT="43"
+                       WIDTH="235"
+                       VPOS="3678"
+                       HPOS="6294">
+               <Shape>
+                  <Polygon POINTS="6294,3678 6529,3678 6529,3721 6294,3721"/>
+               </Shape>
+               <TextLine ID="tl_203"
+                         BASELINE="3720"
+                         HEIGHT="41"
+                         WIDTH="233"
+                         VPOS="3679"
+                         HPOS="6295">
+                  <String ID="string_tl_203"
+                          HEIGHT="41"
+                          WIDTH="233"
+                          VPOS="3679"
+                          HPOS="6295"
+                          CONTENT="Haar"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_1"
+                       HEIGHT="39"
+                       WIDTH="106"
+                       VPOS="3870"
+                       HPOS="6296">
+               <Shape>
+                  <Polygon POINTS="6296,3870 6402,3870 6402,3909 6296,3909"/>
+               </Shape>
+               <TextLine ID="tl_204"
+                         BASELINE="3908"
+                         HEIGHT="37"
+                         WIDTH="104"
+                         VPOS="3871"
+                         HPOS="6297">
+                  <String ID="string_tl_204"
+                          HEIGHT="37"
+                          WIDTH="104"
+                          VPOS="3871"
+                          HPOS="6297"
+                          CONTENT="Wenkbrauwen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_2" HEIGHT="31" WIDTH="76" VPOS="3908" HPOS="6297">
+               <Shape>
+                  <Polygon POINTS="6297,3908 6373,3908 6373,3939 6297,3939"/>
+               </Shape>
+               <TextLine ID="tl_205"
+                         BASELINE="3938"
+                         HEIGHT="29"
+                         WIDTH="74"
+                         VPOS="3909"
+                         HPOS="6298">
+                  <String ID="string_tl_205"
+                          HEIGHT="29"
+                          WIDTH="74"
+                          VPOS="3909"
+                          HPOS="6298"
+                          CONTENT="Voorhoofd"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_3"
+                       HEIGHT="35"
+                       WIDTH="225"
+                       VPOS="3942"
+                       HPOS="6298">
+               <Shape>
+                  <Polygon POINTS="6298,3942 6523,3942 6523,3977 6298,3977"/>
+               </Shape>
+               <TextLine ID="tl_206"
+                         BASELINE="3976"
+                         HEIGHT="33"
+                         WIDTH="223"
+                         VPOS="3943"
+                         HPOS="6299">
+                  <String ID="string_tl_206"
+                          HEIGHT="33"
+                          WIDTH="223"
+                          VPOS="3943"
+                          HPOS="6299"
+                          CONTENT="Oogen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_4"
+                       HEIGHT="33"
+                       WIDTH="166"
+                       VPOS="3981"
+                       HPOS="6297">
+               <Shape>
+                  <Polygon POINTS="6297,3981 6463,3981 6463,4014 6297,4014"/>
+               </Shape>
+               <TextLine ID="tl_207"
+                         BASELINE="4013"
+                         HEIGHT="31"
+                         WIDTH="164"
+                         VPOS="3982"
+                         HPOS="6298">
+                  <String ID="string_tl_207"
+                          HEIGHT="31"
+                          WIDTH="164"
+                          VPOS="3982"
+                          HPOS="6298"
+                          CONTENT="Neus"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_5"
+                       HEIGHT="39"
+                       WIDTH="104"
+                       VPOS="4019"
+                       HPOS="6298">
+               <Shape>
+                  <Polygon POINTS="6298,4019 6402,4019 6402,4058 6298,4058"/>
+               </Shape>
+               <TextLine ID="tl_208"
+                         BASELINE="4057"
+                         HEIGHT="37"
+                         WIDTH="102"
+                         VPOS="4020"
+                         HPOS="6299">
+                  <String ID="string_tl_208"
+                          HEIGHT="37"
+                          WIDTH="102"
+                          VPOS="4020"
+                          HPOS="6299"
+                          CONTENT="Mond"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_6" HEIGHT="31" WIDTH="80" VPOS="4056" HPOS="6299">
+               <Shape>
+                  <Polygon POINTS="6299,4056 6379,4056 6379,4087 6299,4087"/>
+               </Shape>
+               <TextLine ID="tl_209"
+                         BASELINE="4086"
+                         HEIGHT="29"
+                         WIDTH="78"
+                         VPOS="4057"
+                         HPOS="6300">
+                  <String ID="string_tl_209"
+                          HEIGHT="29"
+                          WIDTH="78"
+                          VPOS="4057"
+                          HPOS="6300"
+                          CONTENT="Kin"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_7" HEIGHT="30" WIDTH="90" VPOS="4094" HPOS="6300">
+               <Shape>
+                  <Polygon POINTS="6300,4094 6390,4094 6390,4124 6300,4124"/>
+               </Shape>
+               <TextLine ID="tl_210"
+                         BASELINE="4123"
+                         HEIGHT="28"
+                         WIDTH="88"
+                         VPOS="4095"
+                         HPOS="6301">
+                  <String ID="string_tl_210"
+                          HEIGHT="28"
+                          WIDTH="88"
+                          VPOS="4095"
+                          HPOS="6301"
+                          CONTENT="Baard"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_8" HEIGHT="30" WIDTH="54" VPOS="4131" HPOS="6301">
+               <Shape>
+                  <Polygon POINTS="6301,4131 6355,4131 6355,4161 6301,4161"/>
+               </Shape>
+               <TextLine ID="tl_211"
+                         BASELINE="4160"
+                         HEIGHT="28"
+                         WIDTH="52"
+                         VPOS="4132"
+                         HPOS="6302">
+                  <String ID="string_tl_211"
+                          HEIGHT="28"
+                          WIDTH="52"
+                          VPOS="4132"
+                          HPOS="6302"
+                          CONTENT="Aangezicht"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_9" HEIGHT="31" WIDTH="90" VPOS="4167" HPOS="6302">
+               <Shape>
+                  <Polygon POINTS="6302,4167 6392,4167 6392,4198 6302,4198"/>
+               </Shape>
+               <TextLine ID="tl_212"
+                         BASELINE="4197"
+                         HEIGHT="29"
+                         WIDTH="88"
+                         VPOS="4168"
+                         HPOS="6303">
+                  <String ID="string_tl_212"
+                          HEIGHT="29"
+                          WIDTH="88"
+                          VPOS="4168"
+                          HPOS="6303"
+                          CONTENT="Kleur"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_10"
+                       HEIGHT="40"
+                       WIDTH="174"
+                       VPOS="4203"
+                       HPOS="6299">
+               <Shape>
+                  <Polygon POINTS="6299,4203 6473,4203 6473,4243 6299,4243"/>
+               </Shape>
+               <TextLine ID="tl_213"
+                         BASELINE="4242"
+                         HEIGHT="38"
+                         WIDTH="172"
+                         VPOS="4204"
+                         HPOS="6300">
+                  <String ID="string_tl_213"
+                          HEIGHT="38"
+                          WIDTH="172"
+                          VPOS="4204"
+                          HPOS="6300"
+                          CONTENT="Gewone taal"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_11"
+                       HEIGHT="32"
+                       WIDTH="86"
+                       VPOS="4241"
+                       HPOS="6302">
+               <Shape>
+                  <Polygon POINTS="6302,4241 6388,4241 6388,4273 6302,4273"/>
+               </Shape>
+               <TextLine ID="tl_214"
+                         BASELINE="4272"
+                         HEIGHT="30"
+                         WIDTH="84"
+                         VPOS="4242"
+                         HPOS="6303">
+                  <String ID="string_tl_214"
+                          HEIGHT="30"
+                          WIDTH="84"
+                          VPOS="4242"
+                          HPOS="6303"
+                          CONTENT="Bijzondere teekenen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_127_12"
+                       HEIGHT="78"
+                       WIDTH="321"
+                       VPOS="4275"
+                       HPOS="6301">
+               <Shape>
+                  <Polygon POINTS="6301,4275 6622,4275 6622,4353 6301,4353"/>
+               </Shape>
+               <TextLine ID="tl_215"
+                         BASELINE="4309"
+                         HEIGHT="33"
+                         WIDTH="200"
+                         VPOS="4276"
+                         HPOS="6302">
+                  <String ID="string_tl_215"
+                          HEIGHT="33"
+                          WIDTH="200"
+                          VPOS="4276"
+                          HPOS="6302"
+                          CONTENT="Handteekening"/>
+               </TextLine>
+               <TextLine ID="tl_216"
+                         BASELINE="4352"
+                         HEIGHT="44"
+                         WIDTH="318"
+                         VPOS="4308"
+                         HPOS="6303">
+                  <String ID="string_tl_216"
+                          HEIGHT="44"
+                          WIDTH="318"
+                          VPOS="4308"
+                          HPOS="6303"
+                          CONTENT="Vader"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_128_1"
+                       HEIGHT="43"
+                       WIDTH="233"
+                       VPOS="4394"
+                       HPOS="6304">
+               <Shape>
+                  <Polygon POINTS="6304,4394 6537,4394 6537,4437 6304,4437"/>
+               </Shape>
+               <TextLine ID="tl_217"
+                         BASELINE="4436"
+                         HEIGHT="41"
+                         WIDTH="231"
+                         VPOS="4395"
+                         HPOS="6305">
+                  <String ID="string_tl_217"
+                          HEIGHT="41"
+                          WIDTH="231"
+                          VPOS="4395"
+                          HPOS="6305"
+                          CONTENT="Moeder"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_130_1" HEIGHT="31" WIDTH="93" VPOS="4631" HPOS="5742">
+               <Shape>
+                  <Polygon POINTS="5742,4631 5835,4631 5835,4662 5742,4662"/>
+               </Shape>
+               <TextLine ID="tl_218"
+                         BASELINE="4661"
+                         HEIGHT="29"
+                         WIDTH="91"
+                         VPOS="4632"
+                         HPOS="5743">
+                  <String ID="string_tl_218"
+                          HEIGHT="29"
+                          WIDTH="91"
+                          VPOS="4632"
+                          HPOS="5743"
+                          CONTENT="Nationaliteit AytejeA' ' *"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_130_2"
+                       HEIGHT="31"
+                       WIDTH="120"
+                       VPOS="4691"
+                       HPOS="5743">
+               <Shape>
+                  <Polygon POINTS="5743,4691 5863,4691 5863,4722 5743,4722"/>
+               </Shape>
+               <TextLine ID="tl_219"
+                         BASELINE="4721"
+                         HEIGHT="29"
+                         WIDTH="118"
+                         VPOS="4692"
+                         HPOS="5744">
+                  <String ID="string_tl_219"
+                          HEIGHT="29"
+                          WIDTH="118"
+                          VPOS="4692"
+                          HPOS="5744"
+                          CONTENT="Burgerlijke Staat"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_130_3"
+                       HEIGHT="63"
+                       WIDTH="469"
+                       VPOS="4724"
+                       HPOS="5743">
+               <Shape>
+                  <Polygon POINTS="5743,4724 6212,4724 6212,4787 5743,4787"/>
+               </Shape>
+               <TextLine ID="tl_220"
+                         BASELINE="4786"
+                         HEIGHT="61"
+                         WIDTH="467"
+                         VPOS="4725"
+                         HPOS="5744">
+                  <String ID="string_tl_220"
+                          HEIGHT="61"
+                          WIDTH="467"
+                          VPOS="4725"
+                          HPOS="5744"
+                          CONTENT="Godsdienstige gezindte tAÏ-üTi"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_130_4"
+                       HEIGHT="334"
+                       WIDTH="531"
+                       VPOS="4806"
+                       HPOS="5744">
+               <Shape>
+                  <Polygon POINTS="5744,4806 6275,4806 6275,5140 5744,5140"/>
+               </Shape>
+               <TextLine ID="tl_221"
+                         BASELINE="4846"
+                         HEIGHT="39"
+                         WIDTH="265"
+                         VPOS="4807"
+                         HPOS="5745">
+                  <String ID="string_tl_221"
+                          HEIGHT="39"
+                          WIDTH="265"
+                          VPOS="4807"
+                          HPOS="5745"
+                          CONTENT="Lager onderwijs genoten_2^^"/>
+               </TextLine>
+               <TextLine ID="tl_222"
+                         BASELINE="4910"
+                         HEIGHT="74"
+                         WIDTH="506"
+                         VPOS="4836"
+                         HPOS="5745">
+                  <String ID="string_tl_222"
+                          HEIGHT="74"
+                          WIDTH="506"
+                          VPOS="4836"
+                          HPOS="5745"
+                          CONTENT="Ouderdom (bij opnemmg)"/>
+               </TextLine>
+               <TextLine ID="tl_223"
+                         BASELINE="4969"
+                         HEIGHT="55"
+                         WIDTH="497"
+                         VPOS="4914"
+                         HPOS="5747">
+                  <String ID="string_tl_223"
+                          HEIGHT="55"
+                          WIDTH="497"
+                          VPOS="4914"
+                          HPOS="5747"
+                          CONTENT="Gedrag in het gesticht Otu/-*"/>
+               </TextLine>
+               <TextLine ID="tl_224"
+                         BASELINE="5025"
+                         HEIGHT="44"
+                         WIDTH="422"
+                         VPOS="4981"
+                         HPOS="5746">
+                  <String ID="string_tl_224"
+                          HEIGHT="44"
+                          WIDTH="422"
+                          VPOS="4981"
+                          HPOS="5746"
+                          CONTENT="Gepensioneerd"/>
+               </TextLine>
+               <TextLine ID="tl_225"
+                         BASELINE="5086"
+                         HEIGHT="62"
+                         WIDTH="528"
+                         VPOS="5024"
+                         HPOS="5746">
+                  <String ID="string_tl_225"
+                          HEIGHT="62"
+                          WIDTH="528"
+                          VPOS="5024"
+                          HPOS="5746"
+                          CONTENT="Ikfcngte"/>
+               </TextLine>
+               <TextLine ID="tl_226"
+                         BASELINE="5139"
+                         HEIGHT="38"
+                         WIDTH="232"
+                         VPOS="5101"
+                         HPOS="5746">
+                  <String ID="string_tl_226"
+                          HEIGHT="38"
+                          WIDTH="232"
+                          VPOS="5101"
+                          HPOS="5746"
+                          CONTENT="S^laar"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_131_1"
+                       HEIGHT="63"
+                       WIDTH="123"
+                       VPOS="4562"
+                       HPOS="6286">
+               <Shape>
+                  <Polygon POINTS="6286,4562 6409,4562 6409,4625 6286,4625"/>
+               </Shape>
+               <TextLine ID="tl_227"
+                         BASELINE="4624"
+                         HEIGHT="61"
+                         WIDTH="121"
+                         VPOS="4563"
+                         HPOS="6287">
+                  <String ID="string_tl_227"
+                          HEIGHT="61"
+                          WIDTH="121"
+                          VPOS="4563"
+                          HPOS="6287"
+                          CONTENT="Wenkbrauwen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_131_2" HEIGHT="53" WIDTH="93" VPOS="4607" HPOS="6287">
+               <Shape>
+                  <Polygon POINTS="6287,4607 6380,4607 6380,4660 6287,4660"/>
+               </Shape>
+               <TextLine ID="tl_228"
+                         BASELINE="4659"
+                         HEIGHT="51"
+                         WIDTH="91"
+                         VPOS="4608"
+                         HPOS="6288">
+                  <String ID="string_tl_228"
+                          HEIGHT="51"
+                          WIDTH="91"
+                          VPOS="4608"
+                          HPOS="6288"
+                          CONTENT="Voorhoofd"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_131_3"
+                       HEIGHT="145"
+                       WIDTH="225"
+                       VPOS="4656"
+                       HPOS="6305">
+               <Shape>
+                  <Polygon POINTS="6305,4656 6530,4656 6530,4801 6305,4801"/>
+               </Shape>
+               <TextLine ID="tl_229"
+                         BASELINE="4688"
+                         HEIGHT="31"
+                         WIDTH="223"
+                         VPOS="4657"
+                         HPOS="6306">
+                  <String ID="string_tl_229"
+                          HEIGHT="31"
+                          WIDTH="223"
+                          VPOS="4657"
+                          HPOS="6306"
+                          CONTENT="Oogen"/>
+               </TextLine>
+               <TextLine ID="tl_230"
+                         BASELINE="4726"
+                         HEIGHT="31"
+                         WIDTH="161"
+                         VPOS="4695"
+                         HPOS="6306">
+                  <String ID="string_tl_230"
+                          HEIGHT="31"
+                          WIDTH="161"
+                          VPOS="4695"
+                          HPOS="6306"
+                          CONTENT="Neus"/>
+               </TextLine>
+               <TextLine ID="tl_231"
+                         BASELINE="4771"
+                         HEIGHT="38"
+                         WIDTH="100"
+                         VPOS="4733"
+                         HPOS="6307">
+                  <String ID="string_tl_231"
+                          HEIGHT="38"
+                          WIDTH="100"
+                          VPOS="4733"
+                          HPOS="6307"
+                          CONTENT="Mond —"/>
+               </TextLine>
+               <TextLine ID="tl_232"
+                         BASELINE="4800"
+                         HEIGHT="28"
+                         WIDTH="77"
+                         VPOS="4772"
+                         HPOS="6307">
+                  <String ID="string_tl_232"
+                          HEIGHT="28"
+                          WIDTH="77"
+                          VPOS="4772"
+                          HPOS="6307"
+                          CONTENT="Kin ^ &lt;«t-V /? \ “"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_131_4"
+                       HEIGHT="39"
+                       WIDTH="328"
+                       VPOS="4799"
+                       HPOS="6307">
+               <Shape>
+                  <Polygon POINTS="6307,4799 6635,4799 6635,4838 6307,4838"/>
+               </Shape>
+               <TextLine ID="tl_233"
+                         BASELINE="4837"
+                         HEIGHT="37"
+                         WIDTH="326"
+                         VPOS="4800"
+                         HPOS="6308">
+                  <String ID="string_tl_233"
+                          HEIGHT="37"
+                          WIDTH="326"
+                          VPOS="4800"
+                          HPOS="6308"
+                          CONTENT="Baard £"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_131_5"
+                       HEIGHT="63"
+                       WIDTH="403"
+                       VPOS="4819"
+                       HPOS="6308">
+               <Shape>
+                  <Polygon POINTS="6308,4819 6711,4819 6711,4882 6308,4882"/>
+               </Shape>
+               <TextLine ID="tl_234"
+                         BASELINE="4881"
+                         HEIGHT="61"
+                         WIDTH="401"
+                         VPOS="4820"
+                         HPOS="6309">
+                  <String ID="string_tl_234"
+                          HEIGHT="61"
+                          WIDTH="401"
+                          VPOS="4820"
+                          HPOS="6309"
+                          CONTENT="{Aangezicht &lt;*£_"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_131_6"
+                       HEIGHT="68"
+                       WIDTH="379"
+                       VPOS="4859"
+                       HPOS="6307">
+               <Shape>
+                  <Polygon POINTS="6307,4859 6686,4859 6686,4927 6307,4927"/>
+               </Shape>
+               <TextLine ID="tl_235"
+                         BASELINE="4926"
+                         HEIGHT="66"
+                         WIDTH="377"
+                         VPOS="4860"
+                         HPOS="6308">
+                  <String ID="string_tl_235"
+                          HEIGHT="66"
+                          WIDTH="377"
+                          VPOS="4860"
+                          HPOS="6308"
+                          CONTENT="Kleur"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_131_7"
+                       HEIGHT="65"
+                       WIDTH="380"
+                       VPOS="4898"
+                       HPOS="6292">
+               <Shape>
+                  <Polygon POINTS="6292,4898 6672,4898 6672,4963 6292,4963"/>
+               </Shape>
+               <TextLine ID="tl_236"
+                         BASELINE="4962"
+                         HEIGHT="63"
+                         WIDTH="378"
+                         VPOS="4899"
+                         HPOS="6293">
+                  <String ID="string_tl_236"
+                          HEIGHT="63"
+                          WIDTH="378"
+                          VPOS="4899"
+                          HPOS="6293"
+                          CONTENT="Gewone taal *%£££"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_131_8" HEIGHT="30" WIDTH="86" VPOS="4955" HPOS="6308">
+               <Shape>
+                  <Polygon POINTS="6308,4955 6394,4955 6394,4985 6308,4985"/>
+               </Shape>
+               <TextLine ID="tl_237"
+                         BASELINE="4984"
+                         HEIGHT="28"
+                         WIDTH="84"
+                         VPOS="4956"
+                         HPOS="6309">
+                  <String ID="string_tl_237"
+                          HEIGHT="28"
+                          WIDTH="84"
+                          VPOS="4956"
+                          HPOS="6309"
+                          CONTENT="Gegageerd"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_131_9"
+                       HEIGHT="61"
+                       WIDTH="371"
+                       VPOS="4970"
+                       HPOS="6307">
+               <Shape>
+                  <Polygon POINTS="6307,4970 6678,4970 6678,5031 6307,5031"/>
+               </Shape>
+               <TextLine ID="tl_238"
+                         BASELINE="5030"
+                         HEIGHT="59"
+                         WIDTH="369"
+                         VPOS="4971"
+                         HPOS="6308">
+                  <String ID="string_tl_238"
+                          HEIGHT="59"
+                          WIDTH="369"
+                          VPOS="4971"
+                          HPOS="6308"
+                          CONTENT="Depart. van"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_132_1"
+                       HEIGHT="41"
+                       WIDTH="169"
+                       VPOS="5144"
+                       HPOS="5745">
+               <Shape>
+                  <Polygon POINTS="5745,5144 5914,5144 5914,5185 5745,5185"/>
+               </Shape>
+               <TextLine ID="tl_239"
+                         BASELINE="5184"
+                         HEIGHT="39"
+                         WIDTH="167"
+                         VPOS="5145"
+                         HPOS="5746">
+                  <String ID="string_tl_239"
+                          HEIGHT="39"
+                          WIDTH="167"
+                          VPOS="5145"
+                          HPOS="5746"
+                          CONTENT="te van hel"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_132_2"
+                       HEIGHT="37"
+                       WIDTH="179"
+                       VPOS="5205"
+                       HPOS="5747">
+               <Shape>
+                  <Polygon POINTS="5747,5205 5926,5205 5926,5242 5747,5242"/>
+               </Shape>
+               <TextLine ID="tl_240"
+                         BASELINE="5241"
+                         HEIGHT="35"
+                         WIDTH="177"
+                         VPOS="5206"
+                         HPOS="5748">
+                  <String ID="string_tl_240"
+                          HEIGHT="35"
+                          WIDTH="177"
+                          VPOS="5206"
+                          HPOS="5748"
+                          CONTENT="met ƒ"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_133_1"
+                       HEIGHT="121"
+                       WIDTH="164"
+                       VPOS="5121"
+                       HPOS="6116">
+               <Shape>
+                  <Polygon POINTS="6116,5121 6280,5121 6280,5242 6116,5242"/>
+               </Shape>
+               <TextLine ID="tl_241"
+                         BASELINE="5157"
+                         HEIGHT="35"
+                         WIDTH="158"
+                         VPOS="5122"
+                         HPOS="6121">
+                  <String ID="string_tl_241"
+                          HEIGHT="35"
+                          WIDTH="158"
+                          VPOS="5122"
+                          HPOS="6121"
+                          CONTENT="Bijzondere teekenen"/>
+               </TextLine>
+               <TextLine ID="tl_242"
+                         BASELINE="5241"
+                         HEIGHT="36"
+                         WIDTH="84"
+                         VPOS="5205"
+                         HPOS="6117">
+                  <String ID="string_tl_242"
+                          HEIGHT="36"
+                          WIDTH="84"
+                          VPOS="5205"
+                          HPOS="6117"
+                          CONTENT="Handteekening"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_134_1"
+                       HEIGHT="130"
+                       WIDTH="320"
+                       VPOS="5019"
+                       HPOS="6308">
+               <Shape>
+                  <Polygon POINTS="6308,5019 6628,5019 6628,5149 6308,5149"/>
+               </Shape>
+               <TextLine ID="tl_244"
+                         BASELINE="5148"
+                         HEIGHT="41"
+                         WIDTH="233"
+                         VPOS="5107"
+                         HPOS="6309">
+                  <String ID="string_tl_244"
+                          HEIGHT="41"
+                          WIDTH="233"
+                          VPOS="5107"
+                          HPOS="6309"
+                          CONTENT="4Ut"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_135_1"
+                       HEIGHT="82"
+                       WIDTH="110"
+                       VPOS="5147"
+                       HPOS="6347">
+               <Shape>
+                  <Polygon POINTS="6347,5147 6457,5147 6457,5229 6347,5229"/>
+               </Shape>
+               <TextLine ID="tl_245"
+                         BASELINE="5228"
+                         HEIGHT="80"
+                         WIDTH="108"
+                         VPOS="5148"
+                         HPOS="6348">
+                  <String ID="string_tl_245"
+                          HEIGHT="80"
+                          WIDTH="108"
+                          VPOS="5148"
+                          HPOS="6348"
+                          CONTENT="V"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_136_1" HEIGHT="36" WIDTH="66" VPOS="5178" HPOS="6458">
+               <Shape>
+                  <Polygon POINTS="6458,5178 6524,5178 6524,5214 6458,5214"/>
+               </Shape>
+               <TextLine ID="tl_246"
+                         BASELINE="5213"
+                         HEIGHT="34"
+                         WIDTH="64"
+                         VPOS="5179"
+                         HPOS="6459">
+                  <String ID="string_tl_246"
+                          HEIGHT="34"
+                          WIDTH="64"
+                          VPOS="5179"
+                          HPOS="6459"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_137_1" HEIGHT="83" WIDTH="62" VPOS="5176" HPOS="6491">
+               <Shape>
+                  <Polygon POINTS="6491,5176 6553,5176 6553,5259 6491,5259"/>
+               </Shape>
+               <TextLine ID="tl_247"
+                         BASELINE="5258"
+                         HEIGHT="81"
+                         WIDTH="60"
+                         VPOS="5177"
+                         HPOS="6492">
+                  <String ID="string_tl_247"
+                          HEIGHT="81"
+                          WIDTH="60"
+                          VPOS="5177"
+                          HPOS="6492"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_138" HEIGHT="7" WIDTH="2375" VPOS="0" HPOS="3625"/>
+            <GraphicalElement ID="r_139" HEIGHT="2" WIDTH="221" VPOS="0" HPOS="3272"/>
+            <GraphicalElement ID="r_140" HEIGHT="2" WIDTH="123" VPOS="0" HPOS="6445"/>
+            <GraphicalElement ID="r_141" HEIGHT="6" WIDTH="190" VPOS="160" HPOS="650"/>
+            <GraphicalElement ID="r_142" HEIGHT="26" WIDTH="2354" VPOS="149" HPOS="3737"/>
+            <GraphicalElement ID="r_143" HEIGHT="18" WIDTH="342" VPOS="144" HPOS="6090"/>
+            <GraphicalElement ID="r_144" HEIGHT="19" WIDTH="272" VPOS="147" HPOS="6432"/>
+            <GraphicalElement ID="r_145" HEIGHT="18" WIDTH="320" VPOS="157" HPOS="6231"/>
+            <GraphicalElement ID="r_146" HEIGHT="37" WIDTH="1971" VPOS="419" HPOS="501"/>
+            <GraphicalElement ID="r_147" HEIGHT="31" WIDTH="1251" VPOS="394" HPOS="2472"/>
+            <GraphicalElement ID="r_148" HEIGHT="18" WIDTH="2006" VPOS="422" HPOS="4105"/>
+            <GraphicalElement ID="r_149" HEIGHT="15" WIDTH="276" VPOS="433" HPOS="3794"/>
+            <GraphicalElement ID="r_150" HEIGHT="25" WIDTH="970" VPOS="410" HPOS="6111"/>
+            <GraphicalElement ID="r_151" HEIGHT="7" WIDTH="107" VPOS="431" HPOS="6020"/>
+            <GraphicalElement ID="r_152" HEIGHT="11" WIDTH="377" VPOS="521" HPOS="5283"/>
+            <GraphicalElement ID="r_153" HEIGHT="12" WIDTH="335" VPOS="584" HPOS="3114"/>
+            <GraphicalElement ID="r_154" HEIGHT="20" WIDTH="542" VPOS="612" HPOS="3794"/>
+            <GraphicalElement ID="r_155" HEIGHT="12" WIDTH="376" VPOS="613" HPOS="4915"/>
+            <GraphicalElement ID="r_156" HEIGHT="15" WIDTH="678" VPOS="988" HPOS="516"/>
+            <GraphicalElement ID="r_157" HEIGHT="16" WIDTH="474" VPOS="983" HPOS="1417"/>
+            <GraphicalElement ID="r_158" HEIGHT="28" WIDTH="1049" VPOS="964" HPOS="1890"/>
+            <GraphicalElement ID="r_159" HEIGHT="23" WIDTH="803" VPOS="953" HPOS="2938"/>
+            <GraphicalElement ID="r_160" HEIGHT="34" WIDTH="2260" VPOS="953" HPOS="4812"/>
+            <GraphicalElement ID="r_161" HEIGHT="19" WIDTH="1014" VPOS="976" HPOS="3798"/>
+            <GraphicalElement ID="r_162" HEIGHT="11" WIDTH="263" VPOS="1567" HPOS="5713"/>
+            <GraphicalElement ID="r_163" HEIGHT="15" WIDTH="1497" VPOS="1705" HPOS="518"/>
+            <GraphicalElement ID="r_164" HEIGHT="26" WIDTH="1749" VPOS="1687" HPOS="2015"/>
+            <GraphicalElement ID="r_165" HEIGHT="25" WIDTH="1948" VPOS="1686" HPOS="3814"/>
+            <GraphicalElement ID="r_166" HEIGHT="22" WIDTH="901" VPOS="1673" HPOS="5768"/>
+            <GraphicalElement ID="r_167" HEIGHT="15" WIDTH="238" VPOS="1669" HPOS="6689"/>
+            <GraphicalElement ID="r_168" HEIGHT="5" WIDTH="265" VPOS="2219" HPOS="4328"/>
+            <GraphicalElement ID="r_169" HEIGHT="11" WIDTH="149" VPOS="2406" HPOS="5132"/>
+            <GraphicalElement ID="r_170" HEIGHT="9" WIDTH="275" VPOS="2703" HPOS="4757"/>
+            <GraphicalElement ID="r_171" HEIGHT="10" WIDTH="166" VPOS="2834" HPOS="4678"/>
+            <GraphicalElement ID="r_172" HEIGHT="42" WIDTH="301" VPOS="2964" HPOS="6657"/>
+            <GraphicalElement ID="r_173" HEIGHT="24" WIDTH="895" VPOS="3128" HPOS="3816"/>
+            <GraphicalElement ID="r_174" HEIGHT="16" WIDTH="593" VPOS="3121" HPOS="4711"/>
+            <GraphicalElement ID="r_175" HEIGHT="8" WIDTH="263" VPOS="3711" HPOS="5734"/>
+            <GraphicalElement ID="r_176" HEIGHT="12" WIDTH="308" VPOS="3860" HPOS="1582"/>
+            <GraphicalElement ID="r_177" HEIGHT="13" WIDTH="644" VPOS="3862" HPOS="1890"/>
+            <GraphicalElement ID="r_178" HEIGHT="15" WIDTH="997" VPOS="3860" HPOS="2546"/>
+            <GraphicalElement ID="r_179" HEIGHT="19" WIDTH="488" VPOS="3849" HPOS="3809"/>
+            <GraphicalElement ID="r_180" HEIGHT="27" WIDTH="1143" VPOS="3830" HPOS="4434"/>
+            <GraphicalElement ID="r_181" HEIGHT="14" WIDTH="459" VPOS="3827" HPOS="5577"/>
+            <GraphicalElement ID="r_182" HEIGHT="27" WIDTH="1048" VPOS="3809" HPOS="6052"/>
+            <GraphicalElement ID="r_183" HEIGHT="13" WIDTH="400" VPOS="4574" HPOS="1503"/>
+            <GraphicalElement ID="r_184" HEIGHT="6" WIDTH="194" VPOS="4427" HPOS="5812"/>
+            <GraphicalElement ID="r_185" HEIGHT="21" WIDTH="879" VPOS="4559" HPOS="3829"/>
+            <GraphicalElement ID="r_186" HEIGHT="25" WIDTH="1201" VPOS="4543" HPOS="4708"/>
+            <GraphicalElement ID="r_187" HEIGHT="27" WIDTH="1059" VPOS="4525" HPOS="6056"/>
+            <GraphicalElement ID="r_188" HEIGHT="5" WIDTH="252" VPOS="5140" HPOS="5746"/>
+            <GraphicalElement ID="r_189" HEIGHT="15" WIDTH="368" VPOS="5533" HPOS="1753"/>
+            <GraphicalElement ID="r_190" HEIGHT="11" WIDTH="309" VPOS="5509" HPOS="5236"/>
+            <GraphicalElement ID="r_191" HEIGHT="10" WIDTH="505" VPOS="5508" HPOS="5672"/>
+            <GraphicalElement ID="r_192" HEIGHT="23" WIDTH="455" VPOS="5506" HPOS="6221"/>
+            <GraphicalElement ID="r_193" HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0"/>
+            <GraphicalElement ID="r_194" HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0"/>
+            <GraphicalElement ID="r_195" HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0"/>
+            <GraphicalElement ID="r_196" HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0"/>
+            <GraphicalElement ID="r_197" HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0"/>
+            <GraphicalElement ID="r_198" HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0"/>
+            <GraphicalElement ID="r_199" HEIGHT="2" WIDTH="89" VPOS="5558" HPOS="5236"/>
+            <GraphicalElement ID="r_200" HEIGHT="11" WIDTH="308" VPOS="5535" HPOS="5634"/>
+            <GraphicalElement ID="r_201" HEIGHT="9" WIDTH="98" VPOS="5503" HPOS="6693"/>
+            <GraphicalElement ID="r_202" HEIGHT="23" WIDTH="308" VPOS="5479" HPOS="6869"/>
+            <GraphicalElement ID="r_203" HEIGHT="12" WIDTH="1367" VPOS="2425" HPOS="521"/>
+            <GraphicalElement ID="r_204" HEIGHT="15" WIDTH="745" VPOS="4568" HPOS="535"/>
+            <GraphicalElement ID="r_205" HEIGHT="135" WIDTH="2" VPOS="2818" HPOS="0"/>
+            <GraphicalElement ID="r_206" HEIGHT="694" WIDTH="30" VPOS="256" HPOS="0"/>
+            <GraphicalElement ID="r_207" HEIGHT="186" WIDTH="5" VPOS="2470" HPOS="229"/>
+            <GraphicalElement ID="r_208" HEIGHT="393" WIDTH="7" VPOS="2433" HPOS="271"/>
+            <GraphicalElement ID="r_209" HEIGHT="196" WIDTH="6" VPOS="4191" HPOS="288"/>
+            <GraphicalElement ID="r_210" HEIGHT="118" WIDTH="5" VPOS="4497" HPOS="292"/>
+            <GraphicalElement ID="r_211" HEIGHT="4265" WIDTH="35" VPOS="448" HPOS="498"/>
+            <GraphicalElement ID="r_212" HEIGHT="559" WIDTH="28" VPOS="4713" HPOS="521"/>
+            <GraphicalElement ID="r_213" HEIGHT="2284" WIDTH="14" VPOS="460" HPOS="620"/>
+            <GraphicalElement ID="r_214" HEIGHT="2531" WIDTH="39" VPOS="2745" HPOS="624"/>
+            <GraphicalElement ID="r_215" HEIGHT="4832" WIDTH="27" VPOS="455" HPOS="1272"/>
+            <GraphicalElement ID="r_216" HEIGHT="4838" WIDTH="27" VPOS="454" HPOS="1478"/>
+            <GraphicalElement ID="r_217" HEIGHT="4842" WIDTH="26" VPOS="451" HPOS="1684"/>
+            <GraphicalElement ID="r_218" HEIGHT="4849" WIDTH="25" VPOS="447" HPOS="1889"/>
+            <GraphicalElement ID="r_219" HEIGHT="4854" WIDTH="24" VPOS="445" HPOS="2029"/>
+            <GraphicalElement ID="r_220" HEIGHT="4868" WIDTH="30" VPOS="434" HPOS="2427"/>
+            <GraphicalElement ID="r_221" HEIGHT="4461" WIDTH="31" VPOS="426" HPOS="2812"/>
+            <GraphicalElement ID="r_222" HEIGHT="373" WIDTH="10" VPOS="4933" HPOS="2830"/>
+            <GraphicalElement ID="r_223" HEIGHT="4895" WIDTH="26" VPOS="416" HPOS="3111"/>
+            <GraphicalElement ID="r_224" HEIGHT="4717" WIDTH="21" VPOS="595" HPOS="3277"/>
+            <GraphicalElement ID="r_225" HEIGHT="4906" WIDTH="24" VPOS="410" HPOS="3439"/>
+            <GraphicalElement ID="r_226" HEIGHT="272" WIDTH="7" VPOS="430" HPOS="3737"/>
+            <GraphicalElement ID="r_227" HEIGHT="773" WIDTH="17" VPOS="661" HPOS="3743"/>
+            <GraphicalElement ID="r_228" HEIGHT="324" WIDTH="8" VPOS="203" HPOS="3742"/>
+            <GraphicalElement ID="r_229" HEIGHT="209" WIDTH="9" VPOS="1759" HPOS="3767"/>
+            <GraphicalElement ID="r_230" HEIGHT="450" WIDTH="16" VPOS="1969" HPOS="3773"/>
+            <GraphicalElement ID="r_231" HEIGHT="2203" WIDTH="16" VPOS="3095" HPOS="3787"/>
+            <GraphicalElement ID="r_232" HEIGHT="450" WIDTH="10" VPOS="2457" HPOS="3782"/>
+            <GraphicalElement ID="r_233" HEIGHT="142" WIDTH="10" VPOS="2408" HPOS="3800"/>
+            <GraphicalElement ID="r_234" HEIGHT="1610" WIDTH="21" VPOS="440" HPOS="3794"/>
+            <GraphicalElement ID="r_235" HEIGHT="1045" WIDTH="32" VPOS="3106" HPOS="3808"/>
+            <GraphicalElement ID="r_236" HEIGHT="942" WIDTH="21" VPOS="4343" HPOS="3827"/>
+            <GraphicalElement ID="r_237" HEIGHT="1418" WIDTH="15" VPOS="627" HPOS="4004"/>
+            <GraphicalElement ID="r_238" HEIGHT="2328" WIDTH="28" VPOS="2954" HPOS="4024"/>
+            <GraphicalElement ID="r_239" HEIGHT="1429" WIDTH="15" VPOS="613" HPOS="4167"/>
+            <GraphicalElement ID="r_240" HEIGHT="2326" WIDTH="26" VPOS="2952" HPOS="4188"/>
+            <GraphicalElement ID="r_241" HEIGHT="1600" WIDTH="22" VPOS="441" HPOS="4326"/>
+            <GraphicalElement ID="r_242" HEIGHT="893" WIDTH="18" VPOS="2952" HPOS="4349"/>
+            <GraphicalElement ID="r_243" HEIGHT="1398" WIDTH="20" VPOS="3879" HPOS="4359"/>
+            <GraphicalElement ID="r_244" HEIGHT="1597" WIDTH="22" VPOS="443" HPOS="4687"/>
+            <GraphicalElement ID="r_245" HEIGHT="2323" WIDTH="30" VPOS="2948" HPOS="4710"/>
+            <GraphicalElement ID="r_246" HEIGHT="1598" WIDTH="23" VPOS="443" HPOS="4914"/>
+            <GraphicalElement ID="r_247" HEIGHT="1603" WIDTH="23" VPOS="2948" HPOS="4939"/>
+            <GraphicalElement ID="r_248" HEIGHT="710" WIDTH="15" VPOS="4556" HPOS="4953"/>
+            <GraphicalElement ID="r_249" HEIGHT="1426" WIDTH="18" VPOS="616" HPOS="5101"/>
+            <GraphicalElement ID="r_250" HEIGHT="1690" WIDTH="21" VPOS="2878" HPOS="5122"/>
+            <GraphicalElement ID="r_251" HEIGHT="693" WIDTH="10" VPOS="4569" HPOS="5139"/>
+            <GraphicalElement ID="r_252" HEIGHT="200" WIDTH="6" VPOS="2405" HPOS="5280"/>
+            <GraphicalElement ID="r_253" HEIGHT="274" WIDTH="16" VPOS="2859" HPOS="5288"/>
+            <GraphicalElement ID="r_254" HEIGHT="1288" WIDTH="19" VPOS="443" HPOS="5282"/>
+            <GraphicalElement ID="r_255" HEIGHT="2020" WIDTH="32" VPOS="3240" HPOS="5303"/>
+            <GraphicalElement ID="r_256" HEIGHT="1201" WIDTH="13" VPOS="522" HPOS="5470"/>
+            <GraphicalElement ID="r_257" HEIGHT="454" WIDTH="6" VPOS="3332" HPOS="5494"/>
+            <GraphicalElement ID="r_258" HEIGHT="1036" WIDTH="16" VPOS="3843" HPOS="5498"/>
+            <GraphicalElement ID="r_259" HEIGHT="378" WIDTH="7" VPOS="4880" HPOS="5510"/>
+            <GraphicalElement ID="r_260" HEIGHT="960" WIDTH="15" VPOS="440" HPOS="5651"/>
+            <GraphicalElement ID="r_261" HEIGHT="173" WIDTH="11" VPOS="1458" HPOS="5658"/>
+            <GraphicalElement ID="r_262" HEIGHT="496" WIDTH="13" VPOS="3326" HPOS="5676"/>
+            <GraphicalElement ID="r_263" HEIGHT="1425" WIDTH="21" VPOS="3832" HPOS="5682"/>
+            <GraphicalElement ID="r_264" HEIGHT="1276" WIDTH="22" VPOS="424" HPOS="6230"/>
+            <GraphicalElement ID="r_265" HEIGHT="1948" WIDTH="32" VPOS="3307" HPOS="6262"/>
+            <GraphicalElement ID="r_266" HEIGHT="1255" WIDTH="23" VPOS="429" HPOS="6635"/>
+            <GraphicalElement ID="r_267" HEIGHT="1941" WIDTH="35" VPOS="3293" HPOS="6668"/>
+            <GraphicalElement ID="r_268" HEIGHT="1050" WIDTH="25" VPOS="414" HPOS="7069"/>
+            <GraphicalElement ID="r_269" HEIGHT="209" WIDTH="15" VPOS="1464" HPOS="7083"/>
+            <GraphicalElement ID="r_270" HEIGHT="1336" WIDTH="22" VPOS="3280" HPOS="7109"/>
+            <GraphicalElement ID="r_271" HEIGHT="632" WIDTH="30" VPOS="4614" HPOS="7120"/>
+            <GraphicalElement ID="r_272" HEIGHT="397" WIDTH="25" VPOS="1466" HPOS="7344"/>
+            <GraphicalElement ID="r_273" HEIGHT="487" WIDTH="26" VPOS="798" HPOS="7344"/>
+            <GraphicalElement ID="r_274" HEIGHT="808" WIDTH="19" VPOS="2572" HPOS="7353"/>
+            <GraphicalElement ID="r_275" HEIGHT="515" WIDTH="17" VPOS="1870" HPOS="7352"/>
+            <GraphicalElement ID="r_276" HEIGHT="216" WIDTH="5" VPOS="4816" HPOS="7527"/>
+            <GraphicalElement ID="r_277" HEIGHT="5" WIDTH="46" VPOS="154" HPOS="4649"/>
+            <GraphicalElement ID="r_278" HEIGHT="4" WIDTH="158" VPOS="155" HPOS="4410"/>
+            <GraphicalElement ID="r_279" HEIGHT="20" WIDTH="3" VPOS="2884" HPOS="231"/>
+            <GraphicalElement ID="r_280" HEIGHT="89" WIDTH="3" VPOS="1173" HPOS="262"/>
+            <GraphicalElement ID="r_281" HEIGHT="72" WIDTH="2" VPOS="676" HPOS="510"/>
+            <GraphicalElement ID="r_282" HEIGHT="70" WIDTH="4" VPOS="2219" HPOS="5272"/>
+            <GraphicalElement ID="r_283" HEIGHT="233" WIDTH="13" VPOS="2204" HPOS="7328"/>
+            <Illustration ID="r_8" HEIGHT="788" WIDTH="3277" VPOS="2995" HPOS="521"/>
+            <Illustration ID="r_9" HEIGHT="330" WIDTH="388" VPOS="2710" HPOS="681"/>
+            <Illustration ID="r_11" HEIGHT="1254" WIDTH="1407" VPOS="3753" HPOS="501"/>
+            <Illustration ID="r_13" HEIGHT="25" WIDTH="358" VPOS="5493" HPOS="509"/>
+            <Illustration ID="r_14" HEIGHT="270" WIDTH="196" VPOS="4990" HPOS="1062"/>
+            <Illustration ID="r_20" HEIGHT="137" WIDTH="153" VPOS="1196" HPOS="2030"/>
+            <Illustration ID="r_35" HEIGHT="158" WIDTH="240" VPOS="1897" HPOS="2555"/>
+            <Illustration ID="r_42" HEIGHT="132" WIDTH="186" VPOS="4130" HPOS="2043"/>
+            <Illustration ID="r_47" HEIGHT="116" WIDTH="125" VPOS="4928" HPOS="2528"/>
+            <Illustration ID="r_70" HEIGHT="299" WIDTH="386" VPOS="1326" HPOS="4172"/>
+            <Illustration ID="r_91" HEIGHT="159" WIDTH="384" VPOS="2877" HPOS="3389"/>
+            <Illustration ID="r_92" HEIGHT="227" WIDTH="160" VPOS="2882" HPOS="3788"/>
+            <Illustration ID="r_93" HEIGHT="205" WIDTH="360" VPOS="3521" HPOS="3401"/>
+            <Illustration ID="r_94" HEIGHT="363" WIDTH="372" VPOS="3844" HPOS="3427"/>
+            <Illustration ID="r_96" HEIGHT="197" WIDTH="329" VPOS="4225" HPOS="3417"/>
+            <Illustration ID="r_107" HEIGHT="132" WIDTH="194" VPOS="3477" HPOS="4387"/>
+            <Illustration ID="r_108"
+                          HEIGHT="880"
+                          WIDTH="1141"
+                          VPOS="3807"
+                          HPOS="3805"/>
+            <ComposedBlock ID="tbl_24_24"
+                           HEIGHT="1127"
+                           WIDTH="576"
+                           VPOS="1746"
+                           HPOS="1890"
+                           TYPE="table">
+               <TextBlock ID="r_24_1_1"
+                          HEIGHT="43"
+                          WIDTH="63"
+                          VPOS="1825"
+                          HPOS="1934">
+                  <Shape>
+                     <Polygon POINTS="1934,1825 1997,1825 1997,1868 1934,1868"/>
+                  </Shape>
+                  <TextLine ID="tl_10"
+                            BASELINE="1867"
+                            HEIGHT="41"
+                            WIDTH="61"
+                            VPOS="1826"
+                            HPOS="1935">
+                     <String ID="string_tl_10"
+                             HEIGHT="41"
+                             WIDTH="61"
+                             VPOS="1826"
+                             HPOS="1935"
+                             CONTENT="11"/>
+                  </TextLine>
+               </TextBlock>
+               <TextBlock ID="r_24_1_2" HEIGHT="184" WIDTH="427" VPOS="1" HPOS="1">
+                  <Shape>
+                     <Polygon POINTS="1,1 428,1 428,185 1,185"/>
+                  </Shape>
+               </TextBlock>
+               <TextBlock ID="r_24_2_1"
+                          HEIGHT="118"
+                          WIDTH="122"
+                          VPOS="1967"
+                          HPOS="1889">
+                  <Shape>
+                     <Polygon POINTS="1889,1967 2011,1967 2011,2085 1889,2085"/>
+                  </Shape>
+                  <TextLine ID="tl_11"
+                            BASELINE="2084"
+                            HEIGHT="116"
+                            WIDTH="120"
+                            VPOS="1968"
+                            HPOS="1890">
+                     <String ID="string_tl_11"
+                             HEIGHT="116"
+                             WIDTH="120"
+                             VPOS="1968"
+                             HPOS="1890"
+                             CONTENT="Juli"/>
+                  </TextLine>
+               </TextBlock>
+               <TextBlock ID="r_24_2_2" HEIGHT="135" WIDTH="427" VPOS="1" HPOS="1">
+                  <Shape>
+                     <Polygon POINTS="1,1 428,1 428,136 1,136"/>
+                  </Shape>
+               </TextBlock>
+               <TextBlock ID="r_24_3_1" HEIGHT="81" WIDTH="145" VPOS="1" HPOS="1">
+                  <Shape>
+                     <Polygon POINTS="1,1 146,1 146,82 1,82"/>
+                  </Shape>
+               </TextBlock>
+               <TextBlock ID="r_24_3_2" HEIGHT="81" WIDTH="427" VPOS="1" HPOS="1">
+                  <Shape>
+                     <Polygon POINTS="1,1 428,1 428,82 1,82"/>
+                  </Shape>
+               </TextBlock>
+               <TextBlock ID="r_24_4_1"
+                          HEIGHT="81"
+                          WIDTH="127"
+                          VPOS="2215"
+                          HPOS="1904">
+                  <Shape>
+                     <Polygon POINTS="1904,2215 2031,2215 2031,2296 1904,2296"/>
+                  </Shape>
+                  <TextLine ID="tl_12"
+                            BASELINE="2295"
+                            HEIGHT="79"
+                            WIDTH="125"
+                            VPOS="2216"
+                            HPOS="1905">
+                     <String ID="string_tl_12"
+                             HEIGHT="79"
+                             WIDTH="125"
+                             VPOS="2216"
+                             HPOS="1905"
+                             CONTENT="1919"/>
+                  </TextLine>
+               </TextBlock>
+               <TextBlock ID="r_24_4_2" HEIGHT="281" WIDTH="427" VPOS="1" HPOS="1">
+                  <Shape>
+                     <Polygon POINTS="1,1 428,1 428,282 1,282"/>
+                  </Shape>
+               </TextBlock>
+               <TextBlock ID="r_24_5_1"
+                          HEIGHT="35"
+                          WIDTH="51"
+                          VPOS="2546"
+                          HPOS="1940">
+                  <Shape>
+                     <Polygon POINTS="1940,2546 1991,2546 1991,2581 1940,2581"/>
+                  </Shape>
+                  <TextLine ID="tl_13"
+                            BASELINE="2580"
+                            HEIGHT="33"
+                            WIDTH="49"
+                            VPOS="2547"
+                            HPOS="1941">
+                     <String ID="string_tl_13"
+                             HEIGHT="33"
+                             WIDTH="49"
+                             VPOS="2547"
+                             HPOS="1941"
+                             CONTENT="11"/>
+                  </TextLine>
+               </TextBlock>
+               <TextBlock ID="r_24_5_2" HEIGHT="224" WIDTH="427" VPOS="1" HPOS="1">
+                  <Shape>
+                     <Polygon POINTS="1,1 428,1 428,225 1,225"/>
+                  </Shape>
+               </TextBlock>
+               <TextBlock ID="r_24_6_1"
+                          HEIGHT="123"
+                          WIDTH="127"
+                          VPOS="2668"
+                          HPOS="1906">
+                  <Shape>
+                     <Polygon POINTS="1906,2668 2033,2668 2033,2791 1906,2791"/>
+                  </Shape>
+                  <TextLine ID="tl_14"
+                            BASELINE="2790"
+                            HEIGHT="121"
+                            WIDTH="125"
+                            VPOS="2669"
+                            HPOS="1907">
+                     <String ID="string_tl_14"
+                             HEIGHT="121"
+                             WIDTH="125"
+                             VPOS="2669"
+                             HPOS="1907"
+                             CONTENT="Juli"/>
+                  </TextLine>
+               </TextBlock>
+               <TextBlock ID="r_24_6_2"
+                          HEIGHT="63"
+                          WIDTH="381"
+                          VPOS="2798"
+                          HPOS="2049">
+                  <Shape>
+                     <Polygon POINTS="2049,2798 2430,2798 2430,2861 2049,2861"/>
+                  </Shape>
+                  <TextLine ID="tl_15"
+                            BASELINE="2860"
+                            HEIGHT="61"
+                            WIDTH="379"
+                            VPOS="2799"
+                            HPOS="2050">
+                     <String ID="string_tl_15"
+                             HEIGHT="61"
+                             WIDTH="379"
+                             VPOS="2799"
+                             HPOS="2050"
+                             CONTENT="Justitie"/>
+                  </TextLine>
+               </TextBlock>
+            </ComposedBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
