@@ -17,9 +17,7 @@ class Transkribus {
 
     if ($result[0]=='<') {
       $xml = new SimpleXMLElement($result);
-      $this->sessionId = $xml->sessionId;
-      // echo $this->sessionId;
-      // die();
+      $this->sessionId = (string)$xml->sessionId;
       return true;
     } else {
       $this->sessionId = '';
@@ -32,11 +30,35 @@ class Transkribus {
   }
   
   function getImageNames($coll_id, $doc_id) {
-    return json_decode(file_get_contents(API."collections/$coll_id/$doc_id/imageNames", false, $this->contextGET()));
+    return explode("\n",file_get_contents(API."collections/$coll_id/$doc_id/imageNames", false, $this->contextGET()));
+  }
+
+  function getPageIds($coll_id, $doc_id) {
+    //https://transkribus.eu/TrpServer/rest/collections/54631/575628/pageIds/?JSESSIONID=77614C2AE91D78634C50E3AA0D0FA45A
+    return json_decode(file_get_contents(API."collections/$coll_id/$doc_id/pageIds", false, $this->contextGET()));
+  }
+
+  function getPages($coll_id, $doc_id) {
+    return json_decode(file_get_contents(API."collections/$coll_id/$doc_id/pages", false, $this->contextGET()));
+  }
+
+  function getTranscriptIds($coll_id, $doc_id) {
+    return json_decode(file_get_contents(API."collections/$coll_id/$doc_id/transcriptIds", false, $this->contextGET()));
   }
 
   function getPageXML($coll_id, $doc_id, $page) {
     return file_get_contents(API."collections/$coll_id/$doc_id/$page/text", false, $this->contextGET());
+  }
+
+  function getPageInfo($coll_id, $doc_id, $page) {
+    $xml_string = file_get_contents(API."collections/$coll_id/$doc_id/$page", false, $this->contextGET());
+    $xml = simplexml_load_string($xml_string);
+    $json = json_encode($xml);
+    return json_decode($json,TRUE);
+  }
+
+  function getPageCurrentTranscriptInfo($coll_id, $doc_id, $page) {
+    return json_decode(file_get_contents(API."collections/$coll_id/$doc_id/$page/curr", false, $this->contextGET()));
   }
 
   function postPageTranscript($coll_id, $doc_id, $page, $pageXML) {

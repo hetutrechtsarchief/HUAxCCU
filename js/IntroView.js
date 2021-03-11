@@ -1,4 +1,4 @@
-class Intro {
+class IntroView {
 
   constructor() {
 
@@ -14,7 +14,7 @@ class Intro {
   }
 
   mousePressed() {
-    this.sceneManager.showScene(Login);
+    this.sceneManager.showScene(LoginView);
   }
 
 }

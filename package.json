@@ -7,6 +7,6 @@
     },
     "scripts": {
         "serve": "php -S localhost:8080",
-        "upload": "rsync -av ./ ccu:/var/www/ccu.hualab.nl/  --exclude .git --exclude upload --exclude .DS_Store"
+        "upload": "rsync -av ./ ccu:/var/www/ccu.hualab.nl/  --exclude .git --exclude upload --exclude .DS_Store --exclude legacy"
     }
 }

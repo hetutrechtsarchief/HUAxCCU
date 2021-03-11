@@ -1,4 +1,4 @@
-class Documents {
+class DocumentsView {
 
   constructor() {
     
@@ -8,7 +8,7 @@ class Documents {
     print("enter Documents")
 
     var self = this;
-    httpGet(API+'?action=getDocuments&coll_id=54631', 'json', function(res) {
+    loadJSON(API+'?action=getDocuments&coll_id=54631', function(res) {
       if (res.status) {
         self.data = res.data;
       }
@@ -31,11 +31,11 @@ class Documents {
   }
 
   mousePressed() {
-    this.sceneManager.showScene(Page);
+    this.sceneManager.showScene(PageView);
   }
 
   keyPressed() {
-    this.sceneManager.showScene(Page);
+    this.sceneManager.showScene(PageView);
   }
 
 }

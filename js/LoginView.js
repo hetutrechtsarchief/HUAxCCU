@@ -1,4 +1,4 @@
-class Login {
+class LoginView {
 
   constructor() {
     this.naam = "";
@@ -28,13 +28,13 @@ class Login {
   }
 
   mousePressed() {
-    this.sceneManager.showScene(Documents);
+    this.sceneManager.showScene(DocumentsView);
   }
 
   keyTyped() {
 
     if (key=='Enter') {
-      this.sceneManager.showScene(Documents);
+      this.sceneManager.showScene(DocumentsView);
       return;
     }
 

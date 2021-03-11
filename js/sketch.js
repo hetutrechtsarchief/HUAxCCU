@@ -19,7 +19,7 @@ function setup() {
     
   sceneManager = new SceneManager();
   sceneManager.wire();
-  sceneManager.showScene(Intro);
+  sceneManager.showScene(DocumentsView);
 }
 
 function mouseWheel(event) { //WheelEvent in not supplied by sceneManager

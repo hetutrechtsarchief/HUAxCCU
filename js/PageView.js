@@ -1,11 +1,26 @@
-class Page {
+class PageView extends PageData {
 
   constructor() {
-
+    super();
   }
 
   enter() {
     print("enter Page")
+
+    var self = this;
+
+    loadJSON(API+'?action=getPageInfo&coll_id=87815&doc_id=469657&page=1', function(json) {
+      print(json);
+    });
+
+    // loadXML(API+'?action=getPageInfo&coll_id=87815&doc_id=469657&page=1', function(xml) {
+    //   self.parsePageXML(xml);
+    //   // print(xml);
+    //   // print(self.textLines)?
+
+
+    // })
+
     //const imgUrl = "https://iiif2.hualab.nl/iiif/2/gevangenisregisters%2f18-4.573%2fNL-UtHUA_18-4_573_000004.jpg/450,990,6594,708/max/0/default.jpg";
     //const imgUrl = "https://files.transkribus.eu/iiif/2/PMLIQCQYLTEDZNCWCYBCOCKP/full/,1000/0/default.jpg";
     const imgUrl = "https://files.transkribus.eu/Get?id=GVCQVDZRFSOOGXUHMZCJGPZK&fileType=view";
@@ -17,7 +32,6 @@ class Page {
       print(img.width, img.height)
       this.loaded = true;
     });
-
   }
 
   draw() {
