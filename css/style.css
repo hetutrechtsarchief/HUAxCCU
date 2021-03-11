@@ -1,0 +1,85 @@
+html, body {
+  height: 100%;
+  overscroll-behavior-x: none; /* disable 'back' swipe gesture*/
+  /*position: fixed;*/ /*prevent the rubber band scrolling / bounce*/
+  overflow: hidden; /*prevent the rubber band scrolling / bounce*/
+}
+
+body {
+  background-color: #222222;
+  margin:0px;
+  margin: 0;
+  display: flex;
+  justify-content: center;   /* This centers our sketch horizontally. */
+  align-items: center;   /* This centers our sketch vertically. */
+}
+
+/*textarea {
+  display: none;
+  font-size: 24px;
+  width: 600px;
+  height: 200px;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -300px;
+}*/
+
+/*body {
+  padding: 0;
+  margin: 0;
+}*/
+
+/*html, body {
+  height: 100%;
+  overflow: hidden;
+  overscroll-behavior-x: none; /* disable 'back' swipe gesture*/
+/*}*/
+
+/*canvas {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: auto;
+}*/
+
+.toolbar {
+  background-color: silver;
+  padding: 2px 2px 2px 2px;
+  width: 30px;
+  /*height: 150px;*/
+}
+
+.toolbar button {
+  width: 30px;
+  height: 30px;
+  padding: 0 0 0 0;
+}
+
+.toolbar button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.toolbar button img {
+  width: 20px;
+  height: 20px;
+}
+
+.toolbar button.selected {
+  background-color: #aaa;
+}
+
+.overflow-fix {
+  overflow: visible;
+}
+
+#txtName {
+  position: absolute;
+  left: 686px; 
+  bottom: 293px;
+  font-size: 24px;
+}
