@@ -16,13 +16,10 @@ function preload() {
 function setup() {
   frameRate(40);
   createCanvas(1340, 800); 
-  // createCanvas(windowWidth, windowHeight);
-  
+    
   sceneManager = new SceneManager();
   sceneManager.wire();
   sceneManager.showScene(Intro);
-
-  // let inp = createInput('');
 }
 
 function mouseWheel(event) { //WheelEvent in not supplied by sceneManager
