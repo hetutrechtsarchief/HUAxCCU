@@ -4,7 +4,7 @@ session_start();
 include_once("common.php");
 include_once("Transkribus.php");
 
-$db = dbConnect(getenv('MYSQL_HOST'), getenv('MYSQL_DB'), getenv('MYSQL_USER'), getenv('MYSQL_PASS'));
+// $db = dbConnect(getenv('MYSQL_HOST'), getenv('MYSQL_DB'), getenv('MYSQL_USER'), getenv('MYSQL_PASS'));
 
 $trk = new Transkribus();
 
