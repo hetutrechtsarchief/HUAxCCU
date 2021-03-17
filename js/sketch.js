@@ -7,10 +7,10 @@ let sceneManager;
 const API="/api/index.php";
 
 function preload() {
-  imgGuideIntro = loadImage("img/imgGuideIntro.svg");
-  imgGuideLogin = loadImage("img/imgGuideLogin.svg");
-  imgGuideDocs = loadImage("img/imgGuideDocs.svg");
-  imgGuidePage = loadImage("img/imgGuidePage.svg");
+  imgGuideIntro = loadImage("img/imgGuideIntro.jpg");
+  imgGuideLogin = loadImage("img/imgGuideLogin.jpg");
+  imgGuideDocs = loadImage("img/imgGuideDocs.jpg");
+  imgGuidePage = loadImage("img/imgGuidePage.jpg");
 }
 
 function setup() {
@@ -19,7 +19,7 @@ function setup() {
     
   sceneManager = new SceneManager();
   sceneManager.wire();
-  sceneManager.showScene(DocumentsView);
+  sceneManager.showScene(PageView);
 }
 
 function mouseWheel(event) { //WheelEvent in not supplied by sceneManager
