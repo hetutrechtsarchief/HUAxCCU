@@ -7,6 +7,7 @@ class Viewport {
     this.contentWidth = contentWidth;
     this.contentHeight = contentHeight;
     this.reset();
+    this.doClipping = false;
   }
 
   reset() {
@@ -20,12 +21,14 @@ class Viewport {
     //clipping
     //in Processing you can do: // clip(this.bounds.x, this.bounds.y, this.bounds.width, this.bounds.height);
     //in P5js we can use this: https://github.com/processing/p5.js/issues/3998#issuecomment-670270414
-    drawingContext.save(); // Save before clipping mask so you can undo it later on. ALWAYS DO THIS BEFORE TRANSLATIONS.
-    noFill();
-    stroke(255)
-    rect(this.bounds.x, this.bounds.y, this.bounds.width, this.bounds.height);
-    drawingContext.clip();
     
+    if (this.doClipping) {
+      drawingContext.save(); // Save before clipping mask so you can undo it later on. ALWAYS DO THIS BEFORE TRANSLATIONS.
+      noFill();
+      stroke(255)
+      rect(this.bounds.x, this.bounds.y, this.bounds.width, this.bounds.height);
+      drawingContext.clip();
+    }
 
     push();
     translate(this.bounds.x, this.bounds.y);
@@ -80,7 +83,13 @@ class Viewport {
 
   end() {
     pop();
-    drawingContext.restore(); //=noClip() Remove the clippping mask and go back to normal.
+    if (this.clipping) {
+      drawingContext.restore(); //=noClip() Remove the clippping mask and go back to normal.
+    } else {
+      noFill();
+      stroke(255)
+      rect(this.bounds.x, this.bounds.y, this.bounds.width, this.bounds.height);
+    }
   }
 
   zoomBy(delta) {   //delta is a small negative or positive value for example 0.01
@@ -112,11 +121,10 @@ class Viewport {
     this.y += deltaY / this.scale;
   }
 
-  moveToViewCoords(x, y) {
+  moveToViewCoords(x, y) { //View coords == Content coords
     let toScreen = this.fromViewToScreen(x, y);
     this.moveBy(-toScreen.x, -toScreen.y);
+    this.moveBy(this.bounds.x, this.bounds.y); //hmm.. why? but it helps
   }
-
-
 
 }
