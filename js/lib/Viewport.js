@@ -68,6 +68,16 @@ class Viewport {
     return createVector(x, y);
   }
 
+  fromViewToScreen(_x, _y) {
+    ////FIXME ZIT HIER EEN FOUT??
+    //bij moveToViewCoords(0,0) zou de links bovenhoek van de scan linksboven in de viewport moeten zitten.
+    let contentTopLeftInScreenCoords = this.getTransformed(createVector());
+    let contentBottomRightInScreenCoords = this.getTransformed(createVector(this.contentWidth, this.contentHeight));
+    let x = map(_x, 0, this.contentWidth, contentTopLeftInScreenCoords.x, contentBottomRightInScreenCoords.x);
+    let y = map(_y, 0, this.contentHeight, contentTopLeftInScreenCoords.y, contentBottomRightInScreenCoords.y);
+    return createVector(x, y);
+  }
+
   end() {
     pop();
     drawingContext.restore(); //=noClip() Remove the clippping mask and go back to normal.
@@ -92,10 +102,21 @@ class Viewport {
     this.scale = newScale;
   }
 
-  moveBy(deltaX, deltaY) {
+  moveBy(deltaX, deltaY) { //screen coords
     this.x += -deltaX / this.scale;
     this.y += -deltaY / this.scale;
   }
+
+  moveTo(deltaX, deltaY) { //screen coords
+    this.x += deltaX / this.scale;
+    this.y += deltaY / this.scale;
+  }
+
+  moveToViewCoords(x, y) {
+    let toScreen = this.fromViewToScreen(x, y);
+    this.moveBy(-toScreen.x, -toScreen.y);
+  }
+
 
 
 }

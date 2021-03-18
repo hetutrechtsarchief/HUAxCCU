@@ -16,6 +16,10 @@ class Cell {
     this.y = y;
   }
 
+  getBounds() {
+    return bounds;
+  }
+
   // calcCellBounds(t, col, row)
   updateCellBounds() {
     if (this.col<0 || this.col>=this.table.colWidths.length) return new Rectangle();

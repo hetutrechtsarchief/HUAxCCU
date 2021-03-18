@@ -46,7 +46,7 @@ class PageView extends PageData {
       self.thumb = loadImage(json.data.thumbUrl); //"https://files.transkribus.eu/Get?id=GVCQVDZRFSOOGXUHMZCJGPZK&fileType=thumb");
       self.imgWidth = 9130;
       self.imgHeight = 6720;
-      self.view = new Viewport(22, 148, 1130-22, 772-148, self.imgWidth, self.imgHeight);
+      self.view = new Viewport(22, 340, 1130-22, 350, self.imgWidth, self.imgHeight);
       self.img = loadImage(imgUrl, (img)=>{
         self.view.contentWidth = img.width;
         self.view.contentHeight= img.height;
@@ -165,15 +165,20 @@ class PageView extends PageData {
     }
   }
 
-//   void focus() {
-//   TextLine selectedItem = lines.get(itemIndex);
-//   if (selectedItem==null) return;
-//   view.moveToView(selectedItem.cell.bounds.x, selectedItem.cell.bounds.y);
-//   view.moveByScreen(200, 5);
-// }
+  focus() {
+    // let selectedItem = lines.get(itemIndex);
+    if (this.selectedItem==null) return;
+    //this.view.moveToViewCoords(this.selectedItem.cell.bounds.x, this.selectedItem.cell.bounds.y);
+    // this.view.moveBy(200, 5);
+    this.view.moveToViewCoords(0,0);
+  }
 
-// selectLine(0);
-//     focus();
+  selectLine(i) {
+    this.itemIndex = i;
+    //FIXME: limit/constrain/wrap
+    this.selectedItem = this.textLines[this.itemIndex];
+  }
+
 
   keyTyped() {
     if (keyCode==9) { //TAB
@@ -202,8 +207,8 @@ class PageView extends PageData {
     }
 
     if (key=='1') {
-      this.selectLine(5); //itemIndex + (shiftDown ? -1 : 1));
-      // this.focus();
+      this.selectLine(0); //itemIndex + (shiftDown ? -1 : 1));
+      this.focus();
     }
 
     //normal characters
