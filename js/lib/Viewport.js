@@ -1,13 +1,13 @@
 class Viewport {
 
   constructor(x, y, w, h, contentWidth, contentHeight) {
-    this.minScale = 0.5;
-    this.maxScale = 40;
+    this.minScale = 1;
+    this.maxScale = 9;
     this.bounds = new Rectangle(x, y, w, h);
     this.contentWidth = contentWidth;
     this.contentHeight = contentHeight;
     this.reset();
-    this.doClipping = false;
+    this.doClipping = true;
   }
 
   reset() {
@@ -46,6 +46,17 @@ class Viewport {
     //this.toScreenScale = 1 / (scale * min(bounds.width/this.contentWidth, bounds.height/this.contentHeight));
   }
 
+  end() {
+    pop();
+    if (this.doClipping) {
+      drawingContext.restore(); //=noClip() Remove the clippping mask and go back to normal.
+    } else {
+      noFill();
+      stroke(255)
+      rect(this.bounds.x, this.bounds.y, this.bounds.width, this.bounds.height);
+    }
+  }
+
   getTransformed(p) {
     let m = new Matrix();
     m.translate(this.bounds.x, this.bounds.y);
@@ -79,17 +90,6 @@ class Viewport {
     let x = map(_x, 0, this.contentWidth, contentTopLeftInScreenCoords.x, contentBottomRightInScreenCoords.x);
     let y = map(_y, 0, this.contentHeight, contentTopLeftInScreenCoords.y, contentBottomRightInScreenCoords.y);
     return createVector(x, y);
-  }
-
-  end() {
-    pop();
-    if (this.clipping) {
-      drawingContext.restore(); //=noClip() Remove the clippping mask and go back to normal.
-    } else {
-      noFill();
-      stroke(255)
-      rect(this.bounds.x, this.bounds.y, this.bounds.width, this.bounds.height);
-    }
   }
 
   zoomBy(delta) {   //delta is a small negative or positive value for example 0.01

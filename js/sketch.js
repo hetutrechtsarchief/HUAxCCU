@@ -60,7 +60,7 @@ function setup() {
     thumb = loadImage(json.data.thumbUrl); //"https://files.transkribus.eu/Get?id=GVCQVDZRFSOOGXUHMZCJGPZK&fileType=thumb");
     imgWidth = 9130;
     imgHeight = 6720;
-    view = new Viewport(22, 340, 1130-22, 350, imgWidth, imgHeight);
+    view = new Viewport(0, 340, width, 350, imgWidth, imgHeight);
     img = loadImage(imgUrl, (img)=>{
       view.contentWidth = img.width;
       view.contentHeight= img.height;
@@ -91,7 +91,9 @@ function setup() {
       });
 
       //selectedItem
-      selectedItem = textLines[0];
+      view.zoomBy(view.maxScale);
+      selectLine(0); //selectedItem = textLines[0];
+      focus();
 
     })
   });
@@ -105,7 +107,7 @@ function mouseWheel(event) { //WheelEvent in not supplied by sceneManager
 
 function draw() {
   background(0);
-  image(imgGuidePage,0,0);
+  // image(imgGuidePage,0,0);
   fill(0);
 
   if (view) {
@@ -122,9 +124,9 @@ function draw() {
       //draw table cell
       for (let c of tbl.cells) {
         if (c.skip) continue;
-        noStroke();
-        fill(c.clr);
-        rect(c.bounds.x, c.bounds.y, c.bounds.width, c.bounds.height);
+        // noStroke();
+        // fill(c.clr);
+        // rect(c.bounds.x, c.bounds.y, c.bounds.width, c.bounds.height);
       }
       stroke(255,0,0);
       noFill();
@@ -140,20 +142,20 @@ function draw() {
           if (line == selectedItem) {
             stroke(0, 255, 255);
             strokeWeight(4);
-           } else {
-            stroke(0, 255, 255);
-            strokeWeight(1);
+            noFill();
+            drawRect(line.getBounds());
+           // } else {
+           //  stroke(0, 255, 255);
+           //  strokeWeight(1);
            }
 
-           // line.draw();
-           noFill();
-           drawRect(line.getBounds());
            
-           if (line.text) {
-             fill(255,255,0);
-             noStroke();
-             text(line.text, line.getBounds().x, line.getBounds().y);
-           }
+           
+           // if (line.text) {
+           //   fill(255,255,0);
+           //   noStroke();
+           //   text(line.text, line.getBounds().x, line.getBounds().y);
+           // }
         }
       }
     
@@ -200,6 +202,8 @@ function selectLine(i) {
   itemIndex = i;
   //FIXME: limit/constrain/wrap
   selectedItem = textLines[itemIndex];
+
+  textInput = selectedItem.text;
 }
 
 function keyTyped() {

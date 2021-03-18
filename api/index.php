@@ -12,6 +12,8 @@ $success = $trk->login(getenv('TRANSKRIBUS_USER'), getenv('TRANSKRIBUS_PASS'));
 
 if (!$success) sendError("login failed");
 
+// echo $trk->sessionId;
+
 $method = $_SERVER["REQUEST_METHOD"];
 
 if ($method=="GET") {

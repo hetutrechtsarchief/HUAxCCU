@@ -21,6 +21,7 @@ class Transkribus {
       return true;
     } else {
       $this->sessionId = '';
+      // var_dump($xml);
       return false;
     }
   }
