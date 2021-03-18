@@ -6,6 +6,11 @@ class Transkribus {
   public $sessionId;
 
   function login($user, $pw) {
+
+    if ($this->sessionId) { ///CHECKME: what if the sessionId is invalid?
+      return true;
+    }
+
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, API."auth/login");
     curl_setopt($ch, CURLOPT_POSTFIELDS, "user=$user&pw=$pw");
