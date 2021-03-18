@@ -8,16 +8,27 @@ class Viewport {
     this.contentHeight = contentHeight;
     this.reset();
     this.doClipping = true;
+
+    this.reset();
   }
 
   reset() {
-    this.scale = 1;
-    this.x = this.y = 0;
+    this.toX = 0; //(to value)
+    this.toY = 0; //(to value)
+    this.toScale = 1; //(to value)
+    this.x = 0; //tween (current value)
+    this.y = 0; //tween (current value)
+    this.scale = 1; //tween (current value)
   }
 
   begin() {
     noStroke();
 
+    let smoothing = .4;
+    this.x = lerp(this.x, this.toX, smoothing);
+    this.y = lerp(this.y, this.toY, smoothing);
+    this.scale = lerp(this.scale, this.toScale, smoothing);
+    
     //clipping
     //in Processing you can do: // clip(this.bounds.x, this.bounds.y, this.bounds.width, this.bounds.height);
     //in P5js we can use this: https://github.com/processing/p5.js/issues/3998#issuecomment-670270414
@@ -104,22 +115,22 @@ class Viewport {
 
     //next two lines are the most important lines of the code.
     //subtract mouse in 'old' scale from mouse in 'new' scale and apply that to position.
-    this.x -= (mx/newScale - mx/this.scale);
-    this.y -= (my/newScale - my/this.scale);
+    this.toX -= (mx/newScale - mx/this.toScale);
+    this.toY -= (my/newScale - my/this.toScale);
 
     //apply the new scale
-    this.scale = newScale;
+    this.toScale = newScale;
   }
 
   moveBy(deltaX, deltaY) { //screen coords
-    this.x += -deltaX / this.scale;
-    this.y += -deltaY / this.scale;
+    this.toX += -deltaX / this.toScale;
+    this.toY += -deltaY / this.toScale;
   }
 
-  moveTo(deltaX, deltaY) { //screen coords
-    this.x += deltaX / this.scale;
-    this.y += deltaY / this.scale;
-  }
+  // moveTo(deltaX, deltaY) { //screen coords
+  //   this.toX = deltaX / this.toScale;
+  //   this.toX = deltaY / this.toScale;
+  // }
 
   moveToViewCoords(x, y) { //View coords == Content coords
     let toScreen = this.fromViewToScreen(x, y);

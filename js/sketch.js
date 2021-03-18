@@ -4,7 +4,7 @@ let books = [];
 let imgGuideIntro, imgGuideLogin, imgGuideDocs, imgGuidePage;
 let textLines = [];
 let view = undefined;
-let textInput = "test";
+let textInput = "";
 let itemIndex = 0;
 
 const API="/api/index.php";
@@ -93,8 +93,6 @@ function setup() {
       //selectedItem
       view.zoomBy(view.maxScale);
       selectLine(0); //selectedItem = textLines[0];
-      focus();
-
     })
   });
    
@@ -163,21 +161,24 @@ function draw() {
     }
 
     // info button
-    fill(255,128,0);
-    noStroke();
-    ellipse(1104, 176, 35, 35);
-    fill(255);
-    textSize(25);
-    textAlign(CENTER);
-    text("?", 1104, 176+10);
+    // fill(255,128,0);
+    // noStroke();
+    // ellipse(1104, 176, 35, 35);
+    // fill(255);
+    // textSize(25);
+    // textAlign(CENTER);
+    // text("?", 1104, 176+10);
 
     //textinput
+    push();
+    translate(10, 710);
     fill(255);
-    rect(62, 710, 300, 50);
+    rect(0,0, 400, 50);
     fill(0);
     textSize(40);
     textAlign(LEFT);
-    text(textInput, 70, 710+35);
+    text(textInput, 10, 38);
+    pop();
   }
 
   //loader
@@ -202,43 +203,52 @@ function selectLine(i) {
   itemIndex = i;
   //FIXME: limit/constrain/wrap
   selectedItem = textLines[itemIndex];
+  focus();
 
   textInput = selectedItem.text;
 }
 
-function keyTyped() {
-  if (keyCode==9) { //TAB
-    print("keyTyped TAB")
-    return false;
-  }
-}
+// function keyTyped() {
+//   if (keyCode==9) { //TAB
+//     print("keyTyped TAB")
+//     return false;
+//   }
+// }
 
-function keyReleased() {
-  if (keyCode==9) { //TAB
-    print("keyReleased TAB")
-    return false;
-  }
-}
+// function keyReleased() {
+//   if (keyCode==9) { //TAB
+//     print("keyReleased TAB")
+//     return false;
+//   }
+// }
 
 function isShiftDown() {
   return keyIsDown(16);
 }
 
-function keyPressed() { 
+function selectNextLine() {
+  selectLine(itemIndex + 1);
+} 
 
+function selectPreviousLine() {
+  selectLine(itemIndex - 1);
+}
+
+function keyPressed() { 
 
   //backspace
   if (keyCode==8 && textInput.length>0) {
     textInput = textInput.substr(0,textInput.length-1);
   }
   
-  if (keyCode==9) { //TABboolean shiftDown = false;
-    print("keyPressed TAB")
-    
-    selectLine(itemIndex + (isShiftDown() ? -1 : 1));
-    focus();
-
+  if (keyCode==9) { //TAB
+    if (isShiftDown()) selectPreviousLine();
+    else selectNextLine();
     return false;
+  }
+
+  if (keyCode=="Enter") {
+    selectNextLine();
   }
 
   // if (key=='1') {
