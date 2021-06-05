@@ -6,6 +6,14 @@ let textLines = [];
 let view = undefined;
 let textInput = "";
 let itemIndex = 0;
+let selectedItem = undefined;
+let colTitles = [ "nr", "naam", "beroep", "geboren", "woonplaats", "datum opname", "veroordeling", "overtreding", "straf", "", "datum vertrek", "reden vertrek",
+  "", "", "", "", "", "", "", "", "", "", "", "" ];
+let colWidths = [ 125, 652, 203, 203, 203, 145, 399, 383, 299, 166, 163, 338+10,
+                    217, 163, 156, 364, 229, 184, 185, 187, 187, 580, 408, 442 ];
+  
+let rowHeight = 719;
+let rowHeights = [ rowHeight, rowHeight, rowHeight, rowHeight, rowHeight, rowHeight ];
 
 const API="/api/index.php";
 
@@ -22,12 +30,7 @@ function setup() {
     
   print("enter Page")
 
-  let colWidths = [ 125, 652, 203, 203, 203, 145, 399, 383, 299, 166, 163, 338+10,
-                    217, 163, 156, 364, 229, 184, 185, 187, 187, 580, 408, 442 ];
-
-  let rowHeight = 719;
-  let rowHeights = [ rowHeight, rowHeight, rowHeight, rowHeight, rowHeight, rowHeight ];
-
+  
   let offsetX = 505; //470;
   let offsetY = 453 + 544;
   tbl = createTable(offsetX, offsetY, colWidths, rowHeights);
@@ -49,6 +52,7 @@ function setup() {
   // print(self);
 
   loadJSON(API+'?action=getPageInfo&coll_id=87815&doc_id=469657&page=1', function(json) {
+  // loadJSON(API+'?action=getPageInfo&coll_id=92863&doc_id=625938&page=5', function(json) {
     print(json);
 
     if (!json.status) {
@@ -57,10 +61,11 @@ function setup() {
     }
 
     const imgUrl = "img/view_02.jpg"; //json.data.url; //"https://files.transkribus.eu/Get?id=GVCQVDZRFSOOGXUHMZCJGPZK&fileType=view";
+    // const imgUrl = json.data.url; //"https://files.transkribus.eu/Get?id=GVCQVDZRFSOOGXUHMZCJGPZK&fileType=view";
     thumb = loadImage(json.data.thumbUrl); //"https://files.transkribus.eu/Get?id=GVCQVDZRFSOOGXUHMZCJGPZK&fileType=thumb");
     imgWidth = 9130;
     imgHeight = 6720;
-    view = new Viewport(0, 340, width, 350, imgWidth, imgHeight);
+    view = new Viewport(0, 0, width, 350+340, imgWidth, imgHeight);
     img = loadImage(imgUrl, (img)=>{
       view.contentWidth = img.width;
       view.contentHeight= img.height;
@@ -91,17 +96,20 @@ function setup() {
       });
 
       //selectedItem
-      view.zoomBy(view.maxScale);
+      // view.smoothing = 1; //1 = immediate
       selectLine(0); //selectedItem = textLines[0];
+      // print(view.toX, view.toY)
+      // view.zoomBy(view.maxScale, view.toX, view.toY);
+      // view.smoothing = .4;
     })
   });
    
 }
 
-function mouseWheel(event) { //WheelEvent in not supplied by sceneManager
-  let fn = sceneManager.scene.oScene["mouseWheel"];
-  if (fn) fn.call(sceneManager.scene.oScene, event);
-}
+// function mouseWheel(event) { //WheelEvent in not supplied by sceneManager
+//   let fn = sceneManager.scene.oScene["mouseWheel"];
+//   if (fn) fn.call(sceneManager.scene.oScene, event);
+// }
 
 function draw() {
   background(0);
@@ -121,10 +129,10 @@ function draw() {
 
       //draw table cell
       for (let c of tbl.cells) {
-        if (c.skip) continue;
-        // noStroke();
-        // fill(c.clr);
-        // rect(c.bounds.x, c.bounds.y, c.bounds.width, c.bounds.height);
+        // if (c.skip) continue;
+        noStroke();
+        fill(c.clr);
+        rect(c.bounds.x, c.bounds.y, c.bounds.width, c.bounds.height);
       }
       stroke(255,0,0);
       noFill();
@@ -177,7 +185,13 @@ function draw() {
     fill(0);
     textSize(40);
     textAlign(LEFT);
-    text(textInput, 10, 38);
+    text(textInput||"", 10, 38);
+
+    if (selectedItem) {
+      fill(255);
+      text(getColumnTitle(selectedItem.cell.col), 450, 38);
+    }
+
     pop();
   }
 
@@ -199,28 +213,16 @@ function focus() {
   view.moveBy(200, 5);
 }
 
-function selectLine(i) {
-  itemIndex = i;
-  //FIXME: limit/constrain/wrap
-  selectedItem = textLines[itemIndex];
-  focus();
-
-  textInput = selectedItem.text;
+function getColumnTitle(col) {
+  return colTitles[col];
 }
 
-// function keyTyped() {
-//   if (keyCode==9) { //TAB
-//     print("keyTyped TAB")
-//     return false;
-//   }
-// }
-
-// function keyReleased() {
-//   if (keyCode==9) { //TAB
-//     print("keyReleased TAB")
-//     return false;
-//   }
-// }
+function selectLine(i) {
+  itemIndex = constrain(i, 0, textLines.length-1);
+  selectedItem = textLines[itemIndex];
+  focus();
+  textInput = selectedItem.text;
+}
 
 function isShiftDown() {
   return keyIsDown(16);

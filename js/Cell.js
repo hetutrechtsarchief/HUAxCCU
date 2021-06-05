@@ -7,7 +7,8 @@ class Cell {
     this.bounds = new Rectangle();
     this.col = col;
     this.row = row;
-    this.clr = color(random(255),random(255),random(255),100);
+    this.clr = (col%2==0) ? color(0,255,255,10) : color(0,255,255,20); ///color(0,255,255,50); //color(random(255),random(255),random(255),100);
+    this.title = "";
     //(col%2==0) ? color(0,255,255,10) : color(0,255,255,20);
   }
 

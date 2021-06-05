@@ -8,7 +8,7 @@ class Viewport {
     this.contentHeight = contentHeight;
     this.reset();
     this.doClipping = true;
-
+    this.smoothing = .4;
     this.reset();
   }
 
@@ -24,10 +24,11 @@ class Viewport {
   begin() {
     noStroke();
 
-    let smoothing = .4;
-    this.x = lerp(this.x, this.toX, smoothing);
-    this.y = lerp(this.y, this.toY, smoothing);
-    this.scale = lerp(this.scale, this.toScale, smoothing);
+    this.x = lerp(this.x, this.toX, this.smoothing);
+    this.y = lerp(this.y, this.toY, this.smoothing);
+    this.scale = lerp(this.scale, this.toScale, this.smoothing);
+
+    // print(this.x,this.y,this.scale);
     
     //clipping
     //in Processing you can do: // clip(this.bounds.x, this.bounds.y, this.bounds.width, this.bounds.height);
@@ -103,11 +104,13 @@ class Viewport {
     return createVector(x, y);
   }
 
-  zoomBy(delta) {   //delta is a small negative or positive value for example 0.01
+  zoomBy(delta, ax, ay) {   //delta is a small negative or positive value for example 0.01
+    if (ax==undefined) ax = mouseX;
+    if (ay==undefined) ay = mouseY;
 
     //mouse in viewport in screen coordinates 
-    var mx = mouseX - this.bounds.x;
-    var my = mouseY - this.bounds.y;
+    var mx = ax - this.bounds.x;
+    var my = ay - this.bounds.y;
 
     //zoom factor needs to be between about 0.99 and 1.01 to be able to multiply so add 1
     var zoomFactor = delta + 1.0;

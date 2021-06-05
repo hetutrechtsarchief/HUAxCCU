@@ -10,7 +10,7 @@ class TextLine {
   }
 
   getBounds() {
-    return this.coords.getBounds()
+    return this.coords.getBounds();
   }
 
   // draw() {
